@@ -1,10 +1,9 @@
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
-from sklearn.model_selection import train_test_split, ShuffleSplit, cross_val_score
+from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
 # Set page layout to wide
@@ -13,22 +12,25 @@ st.set_page_config(layout="wide", page_title="Mumbai Real Estate Analytics & Pre
 # --- STEP 1: DATA PIPELINE ---
 @st.cache_data
 def load_and_clean_data():
-    # Replace this with your actual file path
-    # df = pd.read_csv('/content/mumbai_real_estate_dataset1.csv')
-    
-    # Mocking data structure based on your notebook for a self-contained execution
-    np.random.seed(42)
-    locations = ['Worli', 'Dadar', 'Juhu', 'Andheri', 'Bandra', 'Powai', 'Thane']
-    mock_data = {
-        'location': np.random.choice(locations, 1000),
-        'size': np.random.choice(['2 BHK', '3 BHK', '4 BHK', '1 BHK'], 1000),
-        'total_sqft': np.random.randint(400, 3500, 1000).astype(str),
-        'bath': np.random.randint(1, 5, 1000),
-        'balcony': np.random.randint(0, 4, 1000),
-        'price': np.random.randint(40, 800, 1000),
-        'area_type': 'Super Built-up Area', 'availability': 'Ready To Move', 'society': 'None'
-    }
-    df = pd.DataFrame(mock_data)
+    # Try loading your actual CSV file. Fall back to simulation if not found.
+    try:
+        df = pd.read_csv('mumbai_real_estate_dataset1.csv')
+    except Exception:
+        # Self-contained mockup data matching your exact notebook columns for deployment testing
+        np.random.seed(42)
+        locations = ['Worli', 'Dadar', 'Juhu', 'Andheri', 'Bandra', 'Powai', 'Thane']
+        mock_data = {
+            'location': np.random.choice(locations, 1200),
+            'size': np.random.choice(['2 BHK', '3 BHK', '4 BHK', '1 BHK'], 1200),
+            'total_sqft': np.random.randint(400, 3500, 1200).astype(str),
+            'bath': np.random.randint(1, 5, 1200),
+            'balcony': np.random.randint(0, 4, 1200),
+            'price': np.random.randint(40, 800, 1200),
+            'area_type': 'Super Built-up Area', 
+            'availability': 'Ready To Move', 
+            'society': 'None'
+        }
+        df = pd.DataFrame(mock_data)
     
     # 1. Drop unnecessary columns & missing rows
     df = df.drop(['area_type', 'availability', 'society'], axis='columns', errors='ignore')
@@ -75,7 +77,7 @@ def load_and_clean_data():
         
     df = remove_ppm_outliers(df)
     
-    # 7. Remove BHK outliers (where smaller BHK costs more per m2 than larger BHK in same area)
+    # 7. Remove BHK outliers
     def remove_bhk_outliers(dataframe):
         exclude_indices = np.array([])
         for location, location_df in dataframe.groupby('location'):
@@ -101,31 +103,29 @@ def load_and_clean_data():
     cleaned_df = df.drop(['balcony', 'price_per_m2', 'metrekare'], axis='columns', errors='ignore')
     return cleaned_df
 
+# Load the structured data
 df_clean = load_and_clean_data()
 
 # --- STEP 2: MODEL TRAINING ---
-# Creating dummy variables cleanly
+# Creating dummy variables cleanly with prefixes to avoid dropped reference gaps
 df_dummies = pd.get_dummies(df_clean, columns=['location'], drop_first=True, prefix='location')
 
 X = df_dummies.drop(['price'], axis='columns')
 y = df_dummies['price']
 
-# Extract all unique clean locations available for selection
 unique_locations = sorted(df_clean['location'].unique())
-# Identify the first location name that pandas dropped from dummy columns
-dropped_location = "location_" + unique_locations[0]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=10)
 model = LinearRegression()
 model.fit(X_train.values, y_train)
 accuracy = model.score(X_test.values, y_test)
 
-# --- STEP 3: STREAMLIT UI ---
+# --- STEP 3: STREAMLIT UI LAYOUT ---
 st.title("🏙️ Mumbai Real Estate Dashboard & Predictor")
 st.markdown("Analyze property insights and accurately predict prices using Linear Regression modeling.")
 st.markdown("---")
 
-# Layout Split: Sidebar for inputs, Main panel for Tabs
+# Setup Sidebar panel
 sidebar = st.sidebar
 sidebar.header("🔮 Price Predictor Inputs")
 
@@ -134,22 +134,19 @@ input_sqft = sidebar.number_input("Total Area (Square Feet)", min_value=300, max
 input_bhk = sidebar.slider("Number of BHK", min_value=1, max_value=8, value=2)
 input_bath = sidebar.slider("Number of Bathrooms", min_value=1, max_value=8, value=2)
 
-# Calculation Trigger
 if sidebar.button("⚡ Predict Price"):
-    # Target dummy column string pattern
     target_col = f"location_{selected_loc.lower().strip()}"
     
-    # Initialize input vector array match X format
+    # Build feature input vector matching X's feature layout structure
     x_input = np.zeros(len(X.columns))
     x_input[0] = input_sqft
     x_input[1] = input_bath
     x_input[2] = input_bhk
     
-    # Check if target column exists in feature matrix space
+    # Map selected location dummy indicator safely if it exists
     if target_col in X.columns:
         loc_index = X.columns.get_loc(target_col)
         x_input[loc_index] = 1
-    # If it doesn't exist, it is the dropped category column: keeping features at 0 handles this natively.
 
     prediction = model.predict([x_input])[0]
     
@@ -167,38 +164,44 @@ with tab1:
     with col1:
         # GRAPH 1: Price distribution Histogram
         st.markdown("#### 1. Property Valuation Spread")
-...         fig1, ax1 = plt.subplots(figsize=(8, 5))
-...         sns.histplot(df_clean['price'], kde=True, color='skyblue', bins=20, ax=ax1)
-...         ax1.set_xlabel("Price (Lakh INR)")
-...         ax1.set_ylabel("Count Density")
-...         st.pyplot(fig1)
-...         
-...         # GRAPH 2: BHK vs Price Boxplot
-...         st.markdown("#### 2. Price Distribution by Configuration Size (BHK)")
-...         fig2, ax2 = plt.subplots(figsize=(8, 5))
-...         sns.boxplot(x='bhk', y='price', data=df_clean, palette='Set2', ax=ax2)
-...         ax2.set_xlabel("BHK Count")
-...         ax2.set_ylabel("Price (Lakh INR)")
-...         st.pyplot(fig2)
-... 
-...     with col2:
-...         # GRAPH 3: Scatter Plot Sqft vs Price
-...         st.markdown("#### 3. Correlation: Area (Sqft) vs Valuation")
-...         fig3, ax3 = plt.subplots(figsize=(8, 5))
-...         sns.scatterplot(x='total_sqft', y='price', hue='bhk', data=df_clean, palette='viridis', alpha=0.7, ax=ax3)
-...         ax3.set_xlabel("Total Square Feet")
-...         ax3.set_ylabel("Price (Lakh INR)")
-...         st.pyplot(fig3)
-...         
-...         # GRAPH 4: Top Locations Chart
-...         st.markdown("#### 4. Top Real Estate Sample Counts by Location")
-...         fig4, ax4 = plt.subplots(figsize=(8, 5))
-...         top_locs = df_clean['location'].value_counts().head(10)
-...         sns.barplot(x=top_locs.values, y=[l.title() for l in top_locs.index], palette='plasma', ax=ax4)
-...         ax4.set_xlabel("Number of Properties Listed")
-...         ax4.set_ylabel("Location Hub")
-...         st.pyplot(fig4)
-... 
-... with tab2:
-...     st.subheader("Data Explorer")
-...     st.markdown("This is the processed dataframe after handling null inputs, parsing categories, and stripping standard distribution outliers.")
+        fig1, ax1 = plt.subplots(figsize=(8, 5))
+        sns.histplot(df_clean['price'], kde=True, color='skyblue', bins=20, ax=ax1)
+        ax1.set_xlabel("Price (Lakh INR)")
+        ax1.set_ylabel("Count Density")
+        st.pyplot(fig1)
+        plt.close(fig1)
+        
+        # GRAPH 2: BHK vs Price Boxplot
+        st.markdown("#### 2. Price Distribution by Configuration Size (BHK)")
+        fig2, ax2 = plt.subplots(figsize=(8, 5))
+        sns.boxplot(x='bhk', y='price', data=df_clean, palette='Set2', ax=ax2)
+        ax2.set_xlabel("BHK Count")
+        ax2.set_ylabel("Price (Lakh INR)")
+        st.pyplot(fig2)
+        plt.close(fig2)
+
+    with col2:
+        # GRAPH 3: Scatter Plot Sqft vs Price
+        st.markdown("#### 3. Correlation: Area (Sqft) vs Valuation")
+        fig3, ax3 = plt.subplots(figsize=(8, 5))
+        sns.scatterplot(x='total_sqft', y='price', hue='bhk', data=df_clean, palette='viridis', alpha=0.7, ax=ax3)
+        ax3.set_xlabel("Total Square Feet")
+        ax3.set_ylabel("Price (Lakh INR)")
+        st.pyplot(fig3)
+        plt.close(fig3)
+        
+        # GRAPH 4: Top Locations Chart
+        st.markdown("#### 4. Top Real Estate Sample Counts by Location")
+        fig4, ax4 = plt.subplots(figsize=(8, 5))
+        top_locs = df_clean['location'].value_counts().head(10)
+        clean_labels = [str(l).title() for l in top_locs.index]
+        sns.barplot(x=top_locs.values, y=clean_labels, palette='plasma', ax=ax4)
+        ax4.set_xlabel("Number of Properties Listed")
+        ax4.set_ylabel("Location Hub")
+        st.pyplot(fig4)
+        plt.close(fig4)
+
+with tab2:
+    st.subheader("Data Explorer")
+    st.markdown("This is the processed dataframe after handling null inputs, parsing categories, and stripping standard distribution outliers.")
+    st.dataframe(df_clean, use_container_width=True)
