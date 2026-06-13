@@ -1,0 +1,1001 @@
+area_type,availability,location,size,society,total_sqft,bath,balcony,price
+Carpet Area,Under Construction,Borivali,2 BHK,Society S,1288,2,2,358.95
+Carpet Area,Under Construction,Powai,2 BHK,Society Y,2775,2,0,858.54
+Super built-up Area,Ready To Move,Powai,2 BHK,Society L,1186,2,1,339.62
+Built-up Area,Ready To Move,Bandra,3 BHK,Society E,2513,3,1,660.57
+Super built-up Area,Under Construction,Dadar,2 RK,Society L,2874,2,2,758.86
+Carpet Area,Under Construction,Juhu,2 BHK,Society A,405,2,2,140.73
+Built-up Area,Ready To Move,Worli,2 RK,Society J,399,2,2,54.51
+Built-up Area,Under Construction,Malad,4 BHK,Society G,1081,4,2,346.42
+Carpet Area,Ready To Move,Borivali,2 BHK,Society E,635,2,0,89.65
+Carpet Area,Under Construction,Worli,3 BHK,Society F,537,3,0,120.47
+Plot Area,Ready To Move,Malad,3 BHK,Society T,1415,3,1,438.39
+Carpet Area,Ready To Move,Andheri,2 RK,Society Y,850,2,1,173.37
+Carpet Area,Ready To Move,Chembur,2 BHK,Society I,794,2,0,208.26
+Carpet Area,Under Construction,Juhu,1 RK,Society P,788,1,0,204.9
+Plot Area,Under Construction,Borivali,1 BHK,Society D,2452,1,0,568.41
+Plot Area,Under Construction,Worli,2 RK,Society N,1523,2,2,213.72
+Plot Area,Under Construction,Malad,1 BHK,Society C,1471,1,0,247.0
+Plot Area,Under Construction,Dadar,2 RK,Society S,2971,2,0,793.64
+Built-up Area,Under Construction,Worli,4 BHK,Society K,4572,4,1,1287.33
+Plot Area,Ready To Move,Juhu,4 BHK,Society G,2860,5,1,596.68
+Built-up Area,Ready To Move,Powai,1 BHK,Society Q,2400,1,2,584.88
+Carpet Area,Under Construction,Bandra,4 BHK,Society P,3354,5,2,573.76
+Carpet Area,Ready To Move,Dadar,1 BHK,Society K,561,1,0,143.62
+Built-up Area,Under Construction,Andheri,4 BHK,Society L,3307,5,2,646.54
+Super built-up Area,Under Construction,Andheri,2 RK,Society U,2880,2,1,460.7
+Carpet Area,Under Construction,Worli,2 BHK,Society U,2829,2,2,795.95
+Plot Area,Ready To Move,Powai,2 BHK,Society K,327,2,1,53.74
+Plot Area,Under Construction,Dadar,2 BHK,Society Q,2591,2,1,877.74
+Plot Area,Ready To Move,Andheri,1 BHK,Society B,1447,1,0,183.9
+Super built-up Area,Under Construction,Borivali,4 BHK,Society O,2704,5,1,642.8
+Built-up Area,Under Construction,Malad,3 BHK,Society Z,619,3,0,193.45
+Built-up Area,Under Construction,Bandra,3 BHK,Society F,1734,3,1,519.45
+Carpet Area,Ready To Move,Powai,4 BHK,Society C,3254,5,2,497.92
+Built-up Area,Ready To Move,Malad,1 BHK,Society A,1962,1,0,485.79
+Built-up Area,Under Construction,Dadar,2 RK,Society D,820,2,1,185.66
+Plot Area,Under Construction,Bandra,3 BHK,Society T,497,3,0,84.58
+Super built-up Area,Under Construction,Chembur,1 RK,Society K,429,1,1,111.96
+Super built-up Area,Ready To Move,Chembur,1 RK,Society Z,2461,1,2,854.11
+Plot Area,Under Construction,Worli,2 BHK,Society O,2908,2,1,989.73
+Plot Area,Under Construction,Dadar,1 RK,Society P,712,1,0,105.69
+Plot Area,Under Construction,Goregaon,3 BHK,Society Q,2384,3,1,818.79
+Built-up Area,Under Construction,Juhu,1 BHK,Society A,1873,1,1,231.16
+Plot Area,Under Construction,Malad,4 BHK,Society A,1034,5,1,343.03
+Built-up Area,Under Construction,Malad,3 BHK,Society U,2647,3,2,839.53
+Built-up Area,Ready To Move,Malad,1 RK,Society K,490,1,1,126.4
+Carpet Area,Ready To Move,Andheri,2 RK,Society W,1943,2,0,573.69
+Built-up Area,Ready To Move,Malad,1 RK,Society Y,2933,1,1,564.46
+Built-up Area,Ready To Move,Malad,4 BHK,Society A,3441,4,2,989.87
+Built-up Area,Under Construction,Dadar,3 BHK,Society Q,1810,3,2,499.35
+Plot Area,Ready To Move,Borivali,1 RK,Society F,2530,1,2,556.47
+Super built-up Area,Ready To Move,Juhu,4 BHK,Society W,4242,5,2,769.18
+Super built-up Area,Ready To Move,Goregaon,4 BHK,Society N,3628,4,1,1106.0
+Carpet Area,Under Construction,Bandra,2 BHK,Society M,671,2,2,205.57
+Plot Area,Ready To Move,Juhu,2 BHK,Society W,1519,2,1,229.62
+Carpet Area,Ready To Move,Andheri,3 BHK,Society I,1008,3,0,279.53
+Built-up Area,Under Construction,Andheri,2 BHK,Society P,2008,2,1,443.77
+Plot Area,Under Construction,Chembur,1 BHK,Society C,1470,1,0,485.68
+Built-up Area,Ready To Move,Malad,2 RK,Society A,574,2,0,153.93
+Built-up Area,Under Construction,Juhu,3 BHK,Society W,679,3,0,84.1
+Carpet Area,Under Construction,Bandra,2 RK,Society P,1388,2,1,239.28
+Carpet Area,Ready To Move,Dadar,4 BHK,Society S,1210,4,0,400.47
+Carpet Area,Under Construction,Chembur,1 BHK,Society M,2609,1,1,783.15
+Built-up Area,Under Construction,Malad,1 BHK,Society N,2744,1,1,694.99
+Super built-up Area,Ready To Move,Andheri,1 RK,Society E,1883,1,2,622.11
+Plot Area,Under Construction,Goregaon,1 BHK,Society E,2051,1,1,643.73
+Carpet Area,Under Construction,Andheri,2 BHK,Society B,1253,2,0,203.49
+Plot Area,Ready To Move,Goregaon,2 BHK,Society F,2895,2,0,372.02
+Carpet Area,Under Construction,Bandra,1 BHK,Society N,1288,1,2,282.56
+Super built-up Area,Under Construction,Worli,1 BHK,Society H,538,1,0,69.59
+Built-up Area,Ready To Move,Powai,1 BHK,Society C,2566,1,0,843.5
+Carpet Area,Ready To Move,Worli,1 BHK,Society G,416,1,0,133.92
+Super built-up Area,Ready To Move,Borivali,1 RK,Society F,1976,1,2,498.65
+Carpet Area,Ready To Move,Bandra,2 RK,Society M,1050,2,0,347.22
+Carpet Area,Ready To Move,Powai,1 BHK,Society R,1671,1,2,568.81
+Super built-up Area,Ready To Move,Dadar,4 BHK,Society K,1332,5,1,369.87
+Plot Area,Ready To Move,Goregaon,2 RK,Society S,2747,2,0,484.12
+Super built-up Area,Under Construction,Andheri,1 RK,Society L,2269,1,1,486.01
+Carpet Area,Under Construction,Juhu,2 RK,Society N,887,2,1,302.1
+Plot Area,Ready To Move,Worli,1 RK,Society P,811,1,1,139.2
+Carpet Area,Under Construction,Worli,2 BHK,Society I,1072,2,1,229.29
+Built-up Area,Under Construction,Malad,3 BHK,Society R,1284,3,1,427.99
+Plot Area,Ready To Move,Malad,4 BHK,Society K,4271,4,1,716.05
+Built-up Area,Under Construction,Andheri,2 RK,Society K,1385,2,2,373.67
+Plot Area,Under Construction,Goregaon,4 BHK,Society C,1253,5,2,177.33
+Built-up Area,Ready To Move,Goregaon,1 BHK,Society C,423,1,2,110.22
+Carpet Area,Under Construction,Bandra,2 BHK,Society E,2366,2,0,486.11
+Super built-up Area,Ready To Move,Andheri,3 BHK,Society F,2546,3,1,417.14
+Super built-up Area,Under Construction,Worli,2 BHK,Society I,1384,2,1,338.92
+Built-up Area,Ready To Move,Juhu,2 RK,Society Z,542,2,1,145.7
+Super built-up Area,Ready To Move,Dadar,3 BHK,Society V,2780,3,2,363.69
+Plot Area,Ready To Move,Dadar,4 BHK,Society I,3752,4,2,730.75
+Super built-up Area,Under Construction,Dadar,4 BHK,Society E,1554,4,1,527.51
+Super built-up Area,Ready To Move,Bandra,2 RK,Society E,957,2,1,176.58
+Carpet Area,Ready To Move,Dadar,2 BHK,Society P,1943,2,1,436.84
+Carpet Area,Under Construction,Goregaon,1 BHK,Society H,671,1,2,226.58
+Built-up Area,Under Construction,Dadar,1 BHK,Society B,1490,1,1,367.39
+Carpet Area,Ready To Move,Borivali,1 RK,Society E,1890,1,1,462.24
+Built-up Area,Ready To Move,Borivali,2 RK,Society I,2358,2,0,562.81
+Carpet Area,Ready To Move,Andheri,4 BHK,Society V,2531,5,1,862.51
+Carpet Area,Under Construction,Worli,1 RK,Society P,450,1,1,155.28
+Carpet Area,Ready To Move,Juhu,4 BHK,Society J,4587,5,0,1038.03
+Plot Area,Ready To Move,Juhu,1 RK,Society Z,901,1,2,304.21
+Built-up Area,Under Construction,Juhu,1 BHK,Society B,1715,1,2,543.4
+Carpet Area,Ready To Move,Goregaon,1 BHK,Society N,2288,1,2,668.25
+Plot Area,Under Construction,Andheri,2 RK,Society O,2517,2,0,399.95
+Plot Area,Under Construction,Bandra,1 BHK,Society A,1299,1,2,428.48
+Super built-up Area,Under Construction,Chembur,1 BHK,Society T,1977,1,1,370.96
+Built-up Area,Ready To Move,Dadar,2 BHK,Society G,1077,2,0,141.77
+Carpet Area,Ready To Move,Andheri,4 BHK,Society Z,3493,4,0,1179.83
+Carpet Area,Under Construction,Powai,1 RK,Society B,1743,1,2,550.78
+Built-up Area,Under Construction,Dadar,1 RK,Society Y,906,1,0,191.05
+Built-up Area,Ready To Move,Worli,1 BHK,Society O,1708,1,2,518.53
+Plot Area,Ready To Move,Chembur,4 BHK,Society O,1093,4,2,341.36
+Built-up Area,Under Construction,Andheri,2 RK,Society W,961,2,1,302.73
+Built-up Area,Under Construction,Malad,3 BHK,Society E,984,3,1,146.65
+Plot Area,Ready To Move,Borivali,2 BHK,Society W,912,2,1,257.43
+Built-up Area,Ready To Move,Powai,1 RK,Society Z,1124,1,0,163.69
+Carpet Area,Under Construction,Juhu,2 RK,Society I,943,2,2,114.14
+Carpet Area,Ready To Move,Dadar,4 BHK,Society A,1590,5,0,490.15
+Super built-up Area,Ready To Move,Powai,1 RK,Society B,1025,1,0,289.89
+Built-up Area,Ready To Move,Powai,1 BHK,Society G,2438,1,2,348.44
+Plot Area,Ready To Move,Worli,2 RK,Society F,1495,2,2,409.31
+Carpet Area,Under Construction,Dadar,4 BHK,Society I,1473,5,2,182.65
+Super built-up Area,Ready To Move,Bandra,1 BHK,Society D,1472,1,1,197.77
+Super built-up Area,Ready To Move,Dadar,2 RK,Society X,1447,2,0,239.87
+Built-up Area,Ready To Move,Juhu,1 BHK,Society S,2078,1,0,418.81
+Built-up Area,Ready To Move,Borivali,1 BHK,Society V,2363,1,1,812.59
+Carpet Area,Under Construction,Chembur,1 RK,Society U,1810,1,0,252.06
+Super built-up Area,Under Construction,Chembur,2 RK,Society P,2209,2,2,647.6
+Plot Area,Under Construction,Chembur,1 BHK,Society N,2065,1,1,688.79
+Plot Area,Ready To Move,Juhu,2 RK,Society S,1163,2,2,221.31
+Carpet Area,Ready To Move,Chembur,1 RK,Society H,2093,1,0,488.5
+Plot Area,Ready To Move,Worli,3 BHK,Society W,1721,3,0,371.74
+Carpet Area,Ready To Move,Bandra,3 BHK,Society T,445,3,2,85.8
+Built-up Area,Under Construction,Worli,4 BHK,Society O,1332,4,1,425.55
+Built-up Area,Under Construction,Andheri,4 BHK,Society C,3236,4,2,838.99
+Carpet Area,Under Construction,Dadar,2 RK,Society C,558,2,1,165.94
+Plot Area,Ready To Move,Juhu,2 RK,Society R,2218,2,2,726.92
+Carpet Area,Under Construction,Bandra,2 RK,Society T,2319,2,2,344.77
+Carpet Area,Under Construction,Andheri,4 BHK,Society O,3656,4,1,660.38
+Built-up Area,Under Construction,Goregaon,1 RK,Society S,1024,1,0,257.07
+Built-up Area,Ready To Move,Goregaon,3 BHK,Society N,2250,3,0,309.92
+Built-up Area,Ready To Move,Worli,4 BHK,Society V,1518,5,0,440.38
+Carpet Area,Ready To Move,Goregaon,2 RK,Society Y,2326,2,0,718.53
+Built-up Area,Ready To Move,Chembur,4 BHK,Society W,4539,5,0,1482.66
+Built-up Area,Ready To Move,Worli,2 BHK,Society Z,2937,2,0,635.03
+Carpet Area,Ready To Move,Goregaon,2 BHK,Society W,592,2,0,92.33
+Plot Area,Under Construction,Dadar,2 BHK,Society I,399,2,2,125.56
+Carpet Area,Under Construction,Worli,3 BHK,Society Y,2231,3,2,628.9
+Super built-up Area,Under Construction,Malad,3 BHK,Society G,492,3,0,110.45
+Plot Area,Ready To Move,Andheri,1 RK,Society M,2525,1,2,734.39
+Built-up Area,Under Construction,Juhu,2 BHK,Society W,1669,2,1,451.37
+Plot Area,Under Construction,Worli,2 BHK,Society Z,2576,2,1,404.92
+Carpet Area,Under Construction,Juhu,2 BHK,Society N,1195,2,2,184.94
+Built-up Area,Under Construction,Powai,2 BHK,Society F,1401,2,0,188.87
+Carpet Area,Ready To Move,Chembur,1 RK,Society F,716,1,0,222.82
+Carpet Area,Ready To Move,Goregaon,2 BHK,Society C,961,2,1,232.12
+Carpet Area,Ready To Move,Andheri,1 BHK,Society P,2699,1,0,634.82
+Super built-up Area,Under Construction,Andheri,3 BHK,Society P,1105,3,1,222.63
+Super built-up Area,Under Construction,Juhu,4 BHK,Society S,4279,4,1,1011.41
+Super built-up Area,Under Construction,Powai,4 BHK,Society D,3324,5,2,874.62
+Plot Area,Under Construction,Powai,1 RK,Society V,1003,1,2,151.94
+Super built-up Area,Ready To Move,Andheri,2 BHK,Society D,2811,2,0,349.25
+Super built-up Area,Under Construction,Dadar,1 RK,Society C,837,1,2,253.33
+Carpet Area,Under Construction,Juhu,4 BHK,Society B,1848,4,1,359.1
+Plot Area,Under Construction,Borivali,1 BHK,Society T,2809,1,0,959.43
+Plot Area,Under Construction,Dadar,1 RK,Society P,1231,1,1,194.66
+Super built-up Area,Under Construction,Goregaon,3 BHK,Society E,2298,3,0,393.38
+Super built-up Area,Under Construction,Juhu,4 BHK,Society W,2772,4,1,487.6
+Built-up Area,Ready To Move,Andheri,1 RK,Society C,1185,1,0,389.73
+Built-up Area,Under Construction,Dadar,3 BHK,Society K,1532,3,1,233.88
+Built-up Area,Under Construction,Powai,1 BHK,Society J,909,1,2,245.25
+Plot Area,Under Construction,Bandra,2 BHK,Society K,698,2,1,175.44
+Plot Area,Under Construction,Chembur,1 RK,Society E,913,1,1,311.33
+Carpet Area,Ready To Move,Bandra,1 RK,Society K,752,1,1,124.47
+Carpet Area,Ready To Move,Dadar,4 BHK,Society T,3612,4,0,719.35
+Carpet Area,Ready To Move,Juhu,2 RK,Society U,897,2,1,286.46
+Super built-up Area,Under Construction,Bandra,2 BHK,Society Q,2079,2,2,693.63
+Plot Area,Ready To Move,Bandra,2 RK,Society W,2600,2,1,688.77
+Plot Area,Ready To Move,Andheri,4 BHK,Society G,3886,4,2,1308.69
+Plot Area,Under Construction,Powai,2 BHK,Society K,1321,2,1,354.84
+Carpet Area,Ready To Move,Goregaon,1 RK,Society V,1414,1,2,376.44
+Plot Area,Ready To Move,Worli,4 BHK,Society A,2391,4,2,718.05
+Built-up Area,Under Construction,Worli,1 RK,Society M,511,1,0,151.46
+Plot Area,Ready To Move,Malad,4 BHK,Society U,1591,4,2,416.11
+Carpet Area,Ready To Move,Dadar,2 BHK,Society Q,665,2,0,147.36
+Plot Area,Under Construction,Andheri,2 RK,Society T,1811,2,0,429.71
+Super built-up Area,Ready To Move,Chembur,1 BHK,Society W,1177,1,0,371.09
+Plot Area,Ready To Move,Borivali,3 BHK,Society H,1781,3,1,407.85
+Super built-up Area,Ready To Move,Juhu,1 RK,Society S,2196,1,0,273.53
+Super built-up Area,Under Construction,Worli,3 BHK,Society J,822,3,0,126.55
+Plot Area,Under Construction,Malad,1 BHK,Society Q,1751,1,0,230.83
+Carpet Area,Under Construction,Dadar,3 BHK,Society T,1636,3,2,423.8
+Super built-up Area,Ready To Move,Andheri,1 BHK,Society O,2384,1,2,583.91
+Carpet Area,Under Construction,Juhu,3 BHK,Society G,1779,3,1,479.65
+Built-up Area,Ready To Move,Andheri,4 BHK,Society F,1914,4,0,365.94
+Super built-up Area,Under Construction,Borivali,1 BHK,Society Y,746,1,1,100.71
+Plot Area,Under Construction,Borivali,2 RK,Society Q,2882,2,2,870.18
+Super built-up Area,Under Construction,Malad,1 RK,Society T,1963,1,2,465.35
+Carpet Area,Ready To Move,Malad,1 RK,Society T,1947,1,1,457.21
+Carpet Area,Under Construction,Goregaon,1 BHK,Society X,1811,1,2,493.49
+Built-up Area,Ready To Move,Bandra,1 RK,Society T,1923,1,0,422.9
+Plot Area,Ready To Move,Chembur,4 BHK,Society I,1360,5,0,208.97
+Plot Area,Ready To Move,Andheri,3 BHK,Society F,989,3,0,310.81
+Plot Area,Under Construction,Andheri,1 BHK,Society Y,2820,1,0,724.6
+Super built-up Area,Ready To Move,Andheri,2 BHK,Society N,452,2,1,124.96
+Carpet Area,Under Construction,Powai,1 BHK,Society J,640,1,2,143.11
+Built-up Area,Ready To Move,Malad,4 BHK,Society M,3113,4,1,936.3
+Plot Area,Under Construction,Malad,2 RK,Society S,1888,2,2,540.6
+Super built-up Area,Ready To Move,Worli,1 RK,Society I,652,1,0,100.57
+Plot Area,Ready To Move,Borivali,1 BHK,Society P,1286,1,0,373.62
+Plot Area,Ready To Move,Worli,2 RK,Society D,1479,2,1,390.59
+Built-up Area,Ready To Move,Powai,2 RK,Society L,2994,2,0,662.57
+Plot Area,Under Construction,Dadar,3 BHK,Society Y,2732,3,2,796.62
+Carpet Area,Under Construction,Malad,4 BHK,Society R,1334,4,0,384.29
+Carpet Area,Ready To Move,Borivali,2 BHK,Society K,2119,2,1,359.25
+Carpet Area,Ready To Move,Chembur,4 BHK,Society M,1708,5,1,217.34
+Super built-up Area,Under Construction,Chembur,3 BHK,Society I,1846,3,2,248.81
+Plot Area,Ready To Move,Dadar,2 BHK,Society J,1809,2,0,457.29
+Super built-up Area,Under Construction,Borivali,2 RK,Society S,633,2,1,137.16
+Carpet Area,Ready To Move,Malad,2 BHK,Society F,2554,2,0,561.92
+Built-up Area,Under Construction,Malad,3 BHK,Society R,718,3,1,142.56
+Carpet Area,Under Construction,Chembur,2 RK,Society Z,954,2,0,299.39
+Carpet Area,Ready To Move,Chembur,3 BHK,Society K,1177,3,2,193.83
+Super built-up Area,Ready To Move,Malad,2 BHK,Society W,2680,2,1,333.31
+Built-up Area,Ready To Move,Juhu,2 BHK,Society H,1225,2,2,205.16
+Super built-up Area,Ready To Move,Bandra,4 BHK,Society S,1423,5,2,318.89
+Built-up Area,Ready To Move,Juhu,2 RK,Society F,2194,2,1,293.72
+Carpet Area,Ready To Move,Andheri,1 RK,Society I,2735,1,0,404.85
+Carpet Area,Ready To Move,Juhu,3 BHK,Society N,1544,3,1,325.34
+Plot Area,Ready To Move,Malad,2 RK,Society H,2476,2,0,499.14
+Plot Area,Under Construction,Andheri,1 BHK,Society V,478,1,1,78.71
+Plot Area,Ready To Move,Chembur,1 RK,Society I,2699,1,1,944.11
+Plot Area,Under Construction,Powai,1 BHK,Society I,2859,1,1,570.88
+Super built-up Area,Under Construction,Malad,1 BHK,Society Y,1293,1,2,297.74
+Carpet Area,Under Construction,Powai,4 BHK,Society J,3281,5,0,444.0
+Built-up Area,Ready To Move,Worli,3 BHK,Society V,2593,3,2,548.03
+Carpet Area,Under Construction,Powai,2 BHK,Society M,918,2,1,158.48
+Built-up Area,Under Construction,Worli,1 RK,Society O,335,1,2,75.61
+Built-up Area,Under Construction,Goregaon,1 RK,Society C,1815,1,1,239.2
+Carpet Area,Under Construction,Juhu,3 BHK,Society E,2479,3,1,392.59
+Carpet Area,Under Construction,Juhu,2 BHK,Society Q,422,2,1,140.14
+Plot Area,Ready To Move,Goregaon,4 BHK,Society R,3102,5,2,537.24
+Plot Area,Under Construction,Malad,4 BHK,Society I,1792,4,0,553.89
+Carpet Area,Ready To Move,Goregaon,2 RK,Society T,792,2,2,115.07
+Plot Area,Under Construction,Dadar,1 RK,Society U,1660,1,1,466.14
+Plot Area,Ready To Move,Bandra,1 RK,Society J,2541,1,0,541.7
+Super built-up Area,Ready To Move,Worli,3 BHK,Society H,2915,3,0,1003.76
+Plot Area,Under Construction,Worli,4 BHK,Society K,3210,4,0,484.24
+Plot Area,Ready To Move,Worli,3 BHK,Society W,1463,3,2,262.24
+Built-up Area,Ready To Move,Andheri,4 BHK,Society X,2046,4,1,328.01
+Carpet Area,Under Construction,Borivali,2 BHK,Society S,1976,2,1,305.06
+Carpet Area,Ready To Move,Malad,1 BHK,Society V,1711,1,2,515.45
+Built-up Area,Under Construction,Worli,2 RK,Society K,2986,2,0,989.29
+Super built-up Area,Ready To Move,Juhu,3 BHK,Society T,2894,3,1,963.14
+Built-up Area,Under Construction,Andheri,4 BHK,Society E,1899,4,2,590.85
+Carpet Area,Ready To Move,Goregaon,3 BHK,Society F,827,3,0,161.51
+Carpet Area,Ready To Move,Dadar,2 RK,Society W,2177,2,2,742.94
+Super built-up Area,Under Construction,Juhu,1 RK,Society N,730,1,0,215.34
+Built-up Area,Ready To Move,Juhu,1 RK,Society H,768,1,0,96.54
+Plot Area,Under Construction,Borivali,4 BHK,Society A,3796,4,0,1086.6
+Carpet Area,Ready To Move,Andheri,1 BHK,Society K,684,1,2,158.14
+Super built-up Area,Under Construction,Bandra,1 RK,Society A,2695,1,2,816.18
+Carpet Area,Under Construction,Chembur,4 BHK,Society X,1469,4,0,199.14
+Carpet Area,Under Construction,Malad,2 BHK,Society B,2816,2,1,507.96
+Built-up Area,Under Construction,Borivali,4 BHK,Society F,4577,4,0,618.98
+Plot Area,Ready To Move,Goregaon,4 BHK,Society G,2190,4,1,487.24
+Carpet Area,Under Construction,Dadar,1 RK,Society S,822,1,2,274.38
+Plot Area,Under Construction,Chembur,2 RK,Society T,1559,2,1,418.24
+Plot Area,Ready To Move,Worli,4 BHK,Society T,3263,5,1,767.34
+Built-up Area,Under Construction,Dadar,2 BHK,Society B,1987,2,0,286.57
+Built-up Area,Ready To Move,Goregaon,1 RK,Society O,1437,1,1,300.43
+Built-up Area,Under Construction,Worli,4 BHK,Society X,4097,5,0,692.63
+Built-up Area,Ready To Move,Dadar,1 RK,Society N,2129,1,2,308.3
+Carpet Area,Under Construction,Chembur,1 BHK,Society P,1541,1,0,411.07
+Carpet Area,Under Construction,Juhu,4 BHK,Society R,2584,4,2,419.01
+Plot Area,Ready To Move,Chembur,4 BHK,Society N,2284,4,0,556.1
+Super built-up Area,Ready To Move,Borivali,1 RK,Society B,2705,1,1,582.73
+Carpet Area,Under Construction,Dadar,2 BHK,Society A,2589,2,0,680.16
+Plot Area,Ready To Move,Andheri,2 BHK,Society X,1101,2,2,323.27
+Carpet Area,Ready To Move,Juhu,1 BHK,Society H,725,1,1,124.28
+Built-up Area,Under Construction,Chembur,1 BHK,Society X,961,1,1,221.67
+Built-up Area,Under Construction,Powai,3 BHK,Society S,1425,3,2,385.84
+Carpet Area,Ready To Move,Dadar,1 RK,Society Y,1899,1,0,401.84
+Super built-up Area,Under Construction,Borivali,2 RK,Society D,1102,2,1,186.88
+Built-up Area,Under Construction,Bandra,1 BHK,Society V,1434,1,0,278.19
+Super built-up Area,Under Construction,Powai,2 RK,Society D,836,2,0,234.47
+Plot Area,Under Construction,Malad,1 RK,Society A,2499,1,0,580.95
+Built-up Area,Ready To Move,Bandra,1 RK,Society V,1970,1,2,433.06
+Plot Area,Under Construction,Goregaon,1 RK,Society L,1409,1,0,210.01
+Plot Area,Under Construction,Bandra,2 BHK,Society E,2120,2,0,665.84
+Built-up Area,Under Construction,Juhu,1 BHK,Society M,510,1,0,64.33
+Super built-up Area,Under Construction,Borivali,1 RK,Society G,1691,1,0,482.77
+Plot Area,Under Construction,Dadar,1 BHK,Society A,1322,1,2,345.65
+Plot Area,Ready To Move,Powai,3 BHK,Society B,2772,3,0,828.64
+Carpet Area,Ready To Move,Dadar,2 BHK,Society F,1132,2,1,345.37
+Plot Area,Under Construction,Worli,4 BHK,Society U,3653,4,2,593.05
+Super built-up Area,Ready To Move,Juhu,1 BHK,Society Y,2658,1,1,719.26
+Plot Area,Ready To Move,Andheri,4 BHK,Society M,2211,4,1,646.82
+Super built-up Area,Under Construction,Borivali,4 BHK,Society G,3970,5,0,1166.23
+Carpet Area,Ready To Move,Worli,1 BHK,Society R,2246,1,0,605.15
+Plot Area,Under Construction,Goregaon,3 BHK,Society G,732,3,1,128.88
+Built-up Area,Under Construction,Malad,1 BHK,Society Q,2832,1,1,348.09
+Super built-up Area,Under Construction,Malad,2 BHK,Society C,837,2,0,289.74
+Super built-up Area,Under Construction,Powai,2 RK,Society Z,2286,2,1,739.74
+Carpet Area,Ready To Move,Dadar,1 BHK,Society V,1371,1,1,352.46
+Built-up Area,Ready To Move,Bandra,3 BHK,Society Z,2984,3,1,613.87
+Plot Area,Under Construction,Andheri,1 BHK,Society Z,2127,1,1,468.05
+Super built-up Area,Under Construction,Malad,1 BHK,Society X,836,1,2,205.49
+Super built-up Area,Ready To Move,Malad,2 BHK,Society R,963,2,1,217.46
+Carpet Area,Under Construction,Worli,3 BHK,Society F,2240,3,0,393.92
+Plot Area,Under Construction,Chembur,2 BHK,Society R,1265,2,0,350.23
+Carpet Area,Ready To Move,Bandra,1 BHK,Society O,1178,1,0,225.38
+Plot Area,Ready To Move,Dadar,2 RK,Society Y,1670,2,2,461.61
+Plot Area,Under Construction,Bandra,2 RK,Society C,770,2,0,97.8
+Super built-up Area,Ready To Move,Andheri,4 BHK,Society W,1453,5,1,341.96
+Plot Area,Ready To Move,Worli,4 BHK,Society S,3502,4,2,427.51
+Built-up Area,Under Construction,Dadar,3 BHK,Society Y,2210,3,2,701.86
+Carpet Area,Under Construction,Goregaon,1 BHK,Society S,2592,1,0,394.88
+Super built-up Area,Under Construction,Goregaon,2 BHK,Society N,1286,2,0,169.27
+Plot Area,Ready To Move,Bandra,2 BHK,Society V,1901,2,0,261.12
+Built-up Area,Ready To Move,Malad,2 BHK,Society C,1074,2,1,291.54
+Plot Area,Ready To Move,Bandra,2 BHK,Society Y,2640,2,0,767.97
+Plot Area,Under Construction,Worli,3 BHK,Society F,343,3,0,68.37
+Carpet Area,Ready To Move,Dadar,1 BHK,Society O,2832,1,1,530.81
+Built-up Area,Ready To Move,Worli,4 BHK,Society E,4631,4,2,1097.41
+Plot Area,Under Construction,Worli,3 BHK,Society W,2188,3,1,267.59
+Plot Area,Under Construction,Chembur,2 RK,Society W,950,2,2,272.17
+Carpet Area,Ready To Move,Dadar,1 BHK,Society D,2978,1,1,562.29
+Carpet Area,Ready To Move,Andheri,1 BHK,Society N,1650,1,0,292.17
+Super built-up Area,Under Construction,Borivali,4 BHK,Society O,2753,4,2,926.89
+Super built-up Area,Ready To Move,Juhu,1 BHK,Society B,2711,1,1,559.15
+Super built-up Area,Under Construction,Goregaon,2 RK,Society D,1582,2,2,462.92
+Built-up Area,Ready To Move,Juhu,3 BHK,Society W,2608,3,1,826.85
+Super built-up Area,Ready To Move,Chembur,2 BHK,Society E,1058,2,1,325.53
+Super built-up Area,Under Construction,Goregaon,1 BHK,Society K,533,1,2,179.63
+Super built-up Area,Ready To Move,Chembur,2 BHK,Society O,1227,2,0,335.66
+Super built-up Area,Ready To Move,Worli,4 BHK,Society J,2431,4,0,415.01
+Built-up Area,Ready To Move,Dadar,1 BHK,Society B,1602,1,1,347.29
+Built-up Area,Ready To Move,Juhu,3 BHK,Society F,2047,3,0,403.76
+Plot Area,Ready To Move,Malad,1 RK,Society Y,2991,1,2,664.41
+Carpet Area,Ready To Move,Dadar,1 RK,Society I,2888,1,1,461.92
+Super built-up Area,Under Construction,Bandra,2 BHK,Society H,1726,2,2,332.0
+Built-up Area,Ready To Move,Malad,4 BHK,Society P,4706,4,1,1139.62
+Carpet Area,Ready To Move,Dadar,1 BHK,Society Z,2036,1,2,273.49
+Plot Area,Under Construction,Borivali,4 BHK,Society W,4981,5,1,811.5
+Built-up Area,Ready To Move,Malad,4 BHK,Society B,4918,4,0,1017.85
+Plot Area,Ready To Move,Borivali,1 RK,Society J,328,1,2,43.15
+Carpet Area,Ready To Move,Powai,3 BHK,Society G,1593,3,1,546.2
+Carpet Area,Ready To Move,Worli,1 BHK,Society L,1376,1,1,261.35
+Plot Area,Ready To Move,Goregaon,1 RK,Society F,2804,1,2,920.44
+Built-up Area,Ready To Move,Chembur,2 RK,Society S,2579,2,0,885.29
+Super built-up Area,Ready To Move,Worli,4 BHK,Society K,1173,5,1,300.59
+Plot Area,Under Construction,Worli,1 BHK,Society W,722,1,1,185.41
+Carpet Area,Ready To Move,Malad,2 RK,Society Z,2579,2,0,637.21
+Plot Area,Under Construction,Malad,2 BHK,Society X,1473,2,0,251.42
+Built-up Area,Ready To Move,Dadar,2 RK,Society Z,1044,2,1,320.98
+Built-up Area,Under Construction,Andheri,2 BHK,Society W,2002,2,2,643.73
+Built-up Area,Ready To Move,Borivali,1 RK,Society D,789,1,2,220.74
+Plot Area,Under Construction,Juhu,1 BHK,Society P,632,1,2,134.41
+Super built-up Area,Under Construction,Goregaon,1 BHK,Society E,1061,1,2,221.59
+Built-up Area,Under Construction,Worli,2 RK,Society V,1116,2,2,206.87
+Plot Area,Ready To Move,Goregaon,1 RK,Society T,1913,1,2,268.17
+Super built-up Area,Ready To Move,Juhu,1 BHK,Society O,1847,1,0,578.65
+Plot Area,Under Construction,Dadar,4 BHK,Society L,3600,4,1,839.26
+Plot Area,Ready To Move,Chembur,1 BHK,Society C,662,1,0,172.06
+Plot Area,Ready To Move,Malad,2 BHK,Society B,1191,2,0,209.96
+Plot Area,Under Construction,Malad,1 RK,Society V,1178,1,1,286.32
+Plot Area,Under Construction,Andheri,2 RK,Society C,2709,2,1,869.66
+Plot Area,Under Construction,Powai,2 RK,Society M,1920,2,0,340.53
+Super built-up Area,Ready To Move,Borivali,2 RK,Society Y,2960,2,1,947.26
+Built-up Area,Under Construction,Powai,3 BHK,Society K,2286,3,2,588.41
+Super built-up Area,Under Construction,Borivali,1 BHK,Society Q,1679,1,1,481.96
+Super built-up Area,Under Construction,Goregaon,4 BHK,Society N,4425,5,1,1471.45
+Super built-up Area,Ready To Move,Andheri,2 BHK,Society Q,911,2,2,219.35
+Super built-up Area,Under Construction,Chembur,4 BHK,Society J,2197,4,1,758.37
+Super built-up Area,Under Construction,Dadar,1 BHK,Society T,1663,1,0,220.27
+Carpet Area,Under Construction,Powai,4 BHK,Society M,4721,4,2,1489.35
+Super built-up Area,Ready To Move,Andheri,2 RK,Society S,2452,2,0,676.86
+Super built-up Area,Ready To Move,Juhu,2 BHK,Society T,2131,2,1,458.45
+Built-up Area,Ready To Move,Andheri,4 BHK,Society R,2457,5,2,758.65
+Super built-up Area,Under Construction,Dadar,3 BHK,Society F,1330,3,2,365.32
+Plot Area,Ready To Move,Borivali,4 BHK,Society A,2655,5,2,462.33
+Built-up Area,Under Construction,Malad,1 BHK,Society F,2509,1,2,785.14
+Carpet Area,Ready To Move,Andheri,2 BHK,Society B,2960,2,2,753.92
+Carpet Area,Under Construction,Dadar,2 RK,Society W,2731,2,2,510.77
+Super built-up Area,Ready To Move,Dadar,2 RK,Society O,508,2,0,66.41
+Carpet Area,Ready To Move,Powai,2 BHK,Society H,1111,2,2,149.99
+Carpet Area,Ready To Move,Bandra,2 RK,Society V,1304,2,1,434.76
+Built-up Area,Under Construction,Dadar,1 BHK,Society T,1837,1,2,256.48
+Carpet Area,Ready To Move,Powai,4 BHK,Society X,2085,4,2,297.07
+Super built-up Area,Under Construction,Goregaon,2 RK,Society G,1233,2,1,256.3
+Plot Area,Under Construction,Andheri,2 BHK,Society A,2792,2,0,407.17
+Carpet Area,Under Construction,Andheri,2 BHK,Society A,2523,2,0,715.77
+Carpet Area,Ready To Move,Worli,2 RK,Society Z,449,2,0,94.93
+Built-up Area,Under Construction,Malad,2 RK,Society X,2307,2,2,479.75
+Carpet Area,Under Construction,Malad,1 RK,Society B,2096,1,0,671.24
+Super built-up Area,Ready To Move,Bandra,1 RK,Society E,583,1,2,182.08
+Super built-up Area,Ready To Move,Malad,1 RK,Society E,2593,1,2,791.73
+Built-up Area,Under Construction,Goregaon,1 RK,Society R,506,1,2,103.67
+Carpet Area,Ready To Move,Bandra,2 BHK,Society S,669,2,1,215.25
+Plot Area,Under Construction,Juhu,1 BHK,Society M,804,1,2,113.65
+Built-up Area,Under Construction,Dadar,1 RK,Society Q,2297,1,0,301.4
+Super built-up Area,Ready To Move,Powai,2 BHK,Society N,716,2,0,115.79
+Plot Area,Under Construction,Malad,1 BHK,Society F,1030,1,0,213.38
+Carpet Area,Ready To Move,Goregaon,1 RK,Society I,612,1,1,74.7
+Built-up Area,Under Construction,Goregaon,1 RK,Society U,1669,1,0,384.97
+Super built-up Area,Ready To Move,Powai,3 BHK,Society R,1428,3,2,228.11
+Plot Area,Ready To Move,Worli,2 BHK,Society Q,2882,2,0,896.07
+Built-up Area,Ready To Move,Borivali,3 BHK,Society R,2156,3,1,357.84
+Carpet Area,Under Construction,Malad,2 BHK,Society D,491,2,0,139.39
+Super built-up Area,Under Construction,Powai,4 BHK,Society P,3997,5,2,648.53
+Plot Area,Under Construction,Goregaon,1 RK,Society G,1651,1,0,542.53
+Super built-up Area,Under Construction,Andheri,1 BHK,Society F,1997,1,2,368.54
+Carpet Area,Ready To Move,Malad,2 BHK,Society P,461,2,1,104.57
+Built-up Area,Under Construction,Juhu,3 BHK,Society M,1140,3,0,384.91
+Super built-up Area,Under Construction,Malad,2 RK,Society M,2322,2,0,294.25
+Built-up Area,Ready To Move,Borivali,1 BHK,Society S,2425,1,2,511.37
+Built-up Area,Under Construction,Dadar,1 BHK,Society Q,1492,1,2,207.57
+Plot Area,Ready To Move,Dadar,1 BHK,Society L,738,1,0,215.66
+Super built-up Area,Under Construction,Juhu,2 BHK,Society H,1742,2,2,293.32
+Plot Area,Ready To Move,Borivali,4 BHK,Society F,3494,5,1,1092.69
+Plot Area,Under Construction,Malad,2 RK,Society H,1015,2,2,280.68
+Built-up Area,Under Construction,Worli,3 BHK,Society X,611,3,2,137.17
+Carpet Area,Under Construction,Borivali,3 BHK,Society G,1760,3,0,508.28
+Plot Area,Ready To Move,Chembur,3 BHK,Society J,1130,3,2,203.63
+Carpet Area,Under Construction,Bandra,1 BHK,Society W,1758,1,1,605.16
+Carpet Area,Ready To Move,Goregaon,1 BHK,Society I,2948,1,1,654.57
+Built-up Area,Ready To Move,Malad,3 BHK,Society W,1584,3,2,259.41
+Super built-up Area,Ready To Move,Bandra,1 BHK,Society B,2342,1,0,811.92
+Carpet Area,Under Construction,Juhu,1 RK,Society S,725,1,2,221.98
+Built-up Area,Under Construction,Bandra,2 BHK,Society H,2854,2,0,873.76
+Plot Area,Under Construction,Bandra,1 RK,Society S,884,1,2,139.87
+Plot Area,Under Construction,Worli,3 BHK,Society Q,1406,3,0,227.15
+Built-up Area,Under Construction,Chembur,1 RK,Society L,1181,1,0,171.31
+Plot Area,Under Construction,Borivali,2 BHK,Society Z,2435,2,1,848.29
+Built-up Area,Ready To Move,Borivali,1 RK,Society H,1568,1,1,468.62
+Plot Area,Ready To Move,Bandra,2 RK,Society D,1743,2,2,398.25
+Built-up Area,Ready To Move,Goregaon,1 BHK,Society J,852,1,1,158.55
+Carpet Area,Under Construction,Andheri,4 BHK,Society D,2837,5,2,965.25
+Super built-up Area,Ready To Move,Juhu,3 BHK,Society Q,536,3,1,76.49
+Carpet Area,Ready To Move,Borivali,2 BHK,Society U,1333,2,0,173.39
+Carpet Area,Under Construction,Powai,4 BHK,Society W,4480,5,1,1473.37
+Super built-up Area,Under Construction,Goregaon,3 BHK,Society V,2968,3,1,719.81
+Super built-up Area,Under Construction,Bandra,3 BHK,Society Z,2361,3,1,624.93
+Built-up Area,Under Construction,Powai,3 BHK,Society K,745,3,2,150.47
+Carpet Area,Under Construction,Chembur,1 RK,Society G,2447,1,0,540.13
+Super built-up Area,Under Construction,Dadar,2 RK,Society Y,1781,2,1,378.69
+Built-up Area,Under Construction,Goregaon,2 BHK,Society B,2803,2,0,376.72
+Plot Area,Under Construction,Borivali,4 BHK,Society C,3593,5,0,495.58
+Built-up Area,Ready To Move,Goregaon,2 RK,Society F,2307,2,0,648.34
+Built-up Area,Ready To Move,Worli,3 BHK,Society P,2972,3,2,401.62
+Super built-up Area,Under Construction,Andheri,1 RK,Society V,2475,1,0,583.15
+Plot Area,Under Construction,Powai,4 BHK,Society K,4372,5,0,1041.35
+Carpet Area,Ready To Move,Goregaon,1 BHK,Society H,699,1,2,120.21
+Carpet Area,Under Construction,Andheri,1 RK,Society Q,2180,1,1,621.12
+Carpet Area,Under Construction,Andheri,3 BHK,Society H,1250,3,1,371.32
+Super built-up Area,Ready To Move,Goregaon,2 RK,Society D,583,2,1,146.94
+Built-up Area,Ready To Move,Juhu,3 BHK,Society F,2536,3,2,455.88
+Built-up Area,Ready To Move,Powai,3 BHK,Society H,1170,3,1,291.35
+Carpet Area,Under Construction,Andheri,3 BHK,Society K,1708,3,2,262.69
+Carpet Area,Under Construction,Goregaon,2 BHK,Society T,2976,2,2,830.12
+Carpet Area,Ready To Move,Goregaon,3 BHK,Society X,2213,3,0,624.22
+Super built-up Area,Ready To Move,Malad,2 RK,Society U,2201,2,0,403.23
+Carpet Area,Under Construction,Malad,4 BHK,Society K,3030,4,1,429.14
+Super built-up Area,Under Construction,Bandra,2 RK,Society T,2718,2,2,671.05
+Built-up Area,Ready To Move,Bandra,1 BHK,Society F,2695,1,1,421.01
+Plot Area,Ready To Move,Worli,2 RK,Society B,1876,2,0,631.52
+Built-up Area,Under Construction,Juhu,2 RK,Society O,2840,2,1,751.0
+Super built-up Area,Ready To Move,Goregaon,3 BHK,Society R,1050,3,2,129.43
+Plot Area,Ready To Move,Worli,1 RK,Society Y,2021,1,2,429.73
+Built-up Area,Under Construction,Powai,4 BHK,Society K,1071,5,0,172.32
+Built-up Area,Under Construction,Goregaon,3 BHK,Society E,1743,3,1,602.05
+Carpet Area,Under Construction,Borivali,3 BHK,Society D,2525,3,0,437.32
+Plot Area,Ready To Move,Borivali,1 RK,Society F,1100,1,2,227.33
+Plot Area,Under Construction,Goregaon,3 BHK,Society K,1950,3,1,394.87
+Carpet Area,Under Construction,Powai,2 BHK,Society H,687,2,2,143.12
+Carpet Area,Ready To Move,Goregaon,1 BHK,Society R,2564,1,0,365.92
+Plot Area,Under Construction,Bandra,1 BHK,Society F,2911,1,0,950.41
+Super built-up Area,Under Construction,Worli,2 RK,Society K,2185,2,1,658.93
+Carpet Area,Under Construction,Dadar,2 RK,Society J,781,2,2,121.47
+Built-up Area,Under Construction,Powai,4 BHK,Society X,3850,5,1,956.56
+Plot Area,Ready To Move,Dadar,2 BHK,Society P,2214,2,2,540.7
+Plot Area,Ready To Move,Chembur,4 BHK,Society A,3738,5,0,1106.62
+Carpet Area,Ready To Move,Chembur,2 RK,Society Z,2169,2,2,630.17
+Carpet Area,Ready To Move,Malad,1 RK,Society E,1782,1,2,578.55
+Plot Area,Under Construction,Malad,2 BHK,Society D,2456,2,2,628.45
+Carpet Area,Ready To Move,Malad,3 BHK,Society J,2052,3,0,424.81
+Super built-up Area,Ready To Move,Andheri,1 RK,Society B,2375,1,1,554.13
+Carpet Area,Under Construction,Dadar,3 BHK,Society A,883,3,1,126.59
+Super built-up Area,Under Construction,Andheri,2 BHK,Society R,964,2,0,219.18
+Built-up Area,Ready To Move,Malad,1 BHK,Society F,1293,1,2,443.62
+Super built-up Area,Under Construction,Juhu,2 BHK,Society Z,2094,2,0,288.9
+Built-up Area,Ready To Move,Chembur,1 BHK,Society R,1276,1,0,298.23
+Plot Area,Under Construction,Worli,3 BHK,Society Y,1871,3,1,403.72
+Plot Area,Ready To Move,Goregaon,1 RK,Society W,1720,1,0,319.74
+Plot Area,Under Construction,Dadar,1 RK,Society C,902,1,2,306.4
+Plot Area,Under Construction,Chembur,1 BHK,Society B,1384,1,0,435.37
+Super built-up Area,Ready To Move,Juhu,2 BHK,Society Z,2559,2,1,853.02
+Carpet Area,Under Construction,Chembur,3 BHK,Society D,1765,3,2,418.17
+Plot Area,Ready To Move,Chembur,2 BHK,Society Y,2548,2,1,662.52
+Plot Area,Under Construction,Dadar,2 BHK,Society B,2618,2,0,366.07
+Built-up Area,Ready To Move,Powai,3 BHK,Society Y,1100,3,2,322.37
+Built-up Area,Under Construction,Worli,4 BHK,Society G,1958,5,1,670.31
+Super built-up Area,Under Construction,Worli,1 BHK,Society S,1489,1,2,349.66
+Built-up Area,Ready To Move,Juhu,4 BHK,Society U,4973,5,1,1473.85
+Super built-up Area,Under Construction,Worli,4 BHK,Society C,2260,5,2,548.12
+Plot Area,Under Construction,Goregaon,1 BHK,Society Z,1291,1,1,242.41
+Built-up Area,Ready To Move,Dadar,4 BHK,Society T,1378,5,1,425.71
+Built-up Area,Ready To Move,Andheri,3 BHK,Society A,2293,3,0,555.33
+Carpet Area,Under Construction,Goregaon,2 BHK,Society Z,1184,2,2,188.19
+Carpet Area,Under Construction,Andheri,3 BHK,Society O,867,3,1,191.91
+Built-up Area,Ready To Move,Chembur,1 BHK,Society C,973,1,0,327.32
+Carpet Area,Under Construction,Worli,3 BHK,Society M,1717,3,0,206.5
+Super built-up Area,Ready To Move,Dadar,1 RK,Society U,1806,1,0,507.34
+Super built-up Area,Ready To Move,Powai,4 BHK,Society S,4682,5,0,1081.81
+Super built-up Area,Ready To Move,Chembur,1 RK,Society O,2630,1,0,745.13
+Built-up Area,Ready To Move,Juhu,2 BHK,Society B,2807,2,2,566.11
+Built-up Area,Ready To Move,Andheri,3 BHK,Society P,897,3,2,286.92
+Plot Area,Under Construction,Malad,2 BHK,Society Q,2881,2,2,479.43
+Carpet Area,Ready To Move,Powai,4 BHK,Society P,2817,4,1,595.38
+Plot Area,Under Construction,Andheri,1 BHK,Society K,1071,1,2,258.13
+Super built-up Area,Under Construction,Worli,2 RK,Society C,757,2,2,98.54
+Plot Area,Under Construction,Worli,3 BHK,Society W,2703,3,0,623.39
+Super built-up Area,Under Construction,Andheri,4 BHK,Society O,3028,5,0,837.96
+Carpet Area,Under Construction,Goregaon,1 RK,Society W,1644,1,0,407.34
+Super built-up Area,Under Construction,Dadar,4 BHK,Society P,1340,5,0,376.57
+Built-up Area,Under Construction,Malad,1 RK,Society O,2067,1,1,651.84
+Carpet Area,Ready To Move,Bandra,1 RK,Society L,301,1,0,94.9
+Built-up Area,Ready To Move,Borivali,2 BHK,Society W,2588,2,1,725.99
+Plot Area,Ready To Move,Juhu,3 BHK,Society Y,2140,3,2,486.39
+Built-up Area,Under Construction,Borivali,2 BHK,Society C,1428,2,0,342.28
+Carpet Area,Ready To Move,Powai,3 BHK,Society E,2432,3,0,404.36
+Super built-up Area,Ready To Move,Goregaon,4 BHK,Society D,2150,5,2,391.2
+Plot Area,Ready To Move,Chembur,1 RK,Society S,2886,1,2,837.91
+Super built-up Area,Under Construction,Powai,1 RK,Society C,829,1,0,230.82
+Built-up Area,Ready To Move,Worli,1 BHK,Society W,1590,1,2,434.09
+Carpet Area,Ready To Move,Powai,2 BHK,Society N,2832,2,0,789.16
+Built-up Area,Under Construction,Bandra,2 BHK,Society P,2936,2,0,714.54
+Super built-up Area,Under Construction,Juhu,1 BHK,Society O,2686,1,0,661.97
+Carpet Area,Under Construction,Chembur,4 BHK,Society E,4103,4,0,795.36
+Plot Area,Ready To Move,Dadar,2 RK,Society O,2340,2,0,708.76
+Carpet Area,Under Construction,Andheri,1 BHK,Society O,2468,1,0,757.78
+Plot Area,Under Construction,Borivali,2 BHK,Society Z,681,2,1,228.67
+Super built-up Area,Under Construction,Powai,1 RK,Society B,2647,1,0,910.45
+Carpet Area,Ready To Move,Worli,2 RK,Society W,2444,2,2,841.01
+Super built-up Area,Under Construction,Powai,2 BHK,Society H,2868,2,2,838.31
+Carpet Area,Under Construction,Powai,2 BHK,Society T,1870,2,1,461.02
+Carpet Area,Ready To Move,Andheri,1 BHK,Society L,395,1,0,52.09
+Carpet Area,Under Construction,Bandra,2 BHK,Society P,2069,2,0,553.78
+Built-up Area,Under Construction,Bandra,3 BHK,Society C,2614,3,2,378.28
+Super built-up Area,Under Construction,Malad,2 RK,Society M,1598,2,2,250.85
+Carpet Area,Ready To Move,Worli,2 RK,Society S,1027,2,2,245.65
+Super built-up Area,Under Construction,Worli,1 BHK,Society F,1663,1,2,257.0
+Super built-up Area,Under Construction,Bandra,1 RK,Society Z,1060,1,0,331.19
+Built-up Area,Ready To Move,Juhu,1 BHK,Society M,1270,1,1,419.58
+Carpet Area,Ready To Move,Dadar,2 RK,Society R,1223,2,1,286.71
+Plot Area,Ready To Move,Andheri,2 RK,Society K,906,2,1,181.36
+Plot Area,Under Construction,Worli,1 BHK,Society L,495,1,0,67.16
+Built-up Area,Under Construction,Worli,2 RK,Society G,506,2,1,99.57
+Super built-up Area,Under Construction,Dadar,1 RK,Society U,1361,1,2,196.95
+Built-up Area,Under Construction,Bandra,2 RK,Society J,951,2,0,313.34
+Carpet Area,Under Construction,Borivali,4 BHK,Society W,3976,5,1,879.78
+Carpet Area,Ready To Move,Bandra,2 RK,Society M,563,2,0,126.4
+Super built-up Area,Ready To Move,Goregaon,4 BHK,Society M,2453,5,0,612.53
+Super built-up Area,Under Construction,Chembur,4 BHK,Society P,1879,5,0,644.58
+Super built-up Area,Ready To Move,Chembur,1 BHK,Society D,2955,1,1,672.72
+Super built-up Area,Under Construction,Malad,4 BHK,Society L,2639,5,0,360.77
+Carpet Area,Under Construction,Borivali,2 RK,Society U,2498,2,0,454.54
+Plot Area,Under Construction,Bandra,1 RK,Society E,736,1,0,175.37
+Carpet Area,Under Construction,Juhu,2 RK,Society C,2447,2,0,337.28
+Super built-up Area,Under Construction,Malad,4 BHK,Society N,4461,5,1,1150.48
+Plot Area,Ready To Move,Chembur,4 BHK,Society A,2742,5,2,358.48
+Super built-up Area,Under Construction,Powai,1 BHK,Society I,629,1,2,161.45
+Super built-up Area,Ready To Move,Powai,2 BHK,Society Y,1365,2,2,257.87
+Built-up Area,Ready To Move,Dadar,1 BHK,Society M,2236,1,2,702.41
+Plot Area,Under Construction,Borivali,1 RK,Society T,627,1,2,122.98
+Super built-up Area,Ready To Move,Andheri,3 BHK,Society I,1431,3,2,256.97
+Carpet Area,Ready To Move,Juhu,1 RK,Society N,2603,1,2,823.35
+Built-up Area,Ready To Move,Juhu,2 RK,Society E,1180,2,1,412.66
+Super built-up Area,Ready To Move,Goregaon,2 BHK,Society Z,2285,2,0,392.53
+Super built-up Area,Under Construction,Bandra,2 RK,Society G,1843,2,1,405.04
+Built-up Area,Under Construction,Powai,1 RK,Society A,641,1,1,177.76
+Carpet Area,Under Construction,Bandra,1 BHK,Society C,2912,1,2,543.31
+Carpet Area,Under Construction,Andheri,1 RK,Society M,547,1,2,72.66
+Built-up Area,Ready To Move,Malad,1 RK,Society L,1405,1,2,490.83
+Built-up Area,Under Construction,Andheri,2 RK,Society R,1184,2,1,177.23
+Built-up Area,Ready To Move,Powai,2 BHK,Society K,2231,2,0,572.04
+Plot Area,Ready To Move,Malad,1 BHK,Society M,2973,1,0,398.4
+Super built-up Area,Ready To Move,Dadar,4 BHK,Society X,3496,5,2,1102.06
+Plot Area,Under Construction,Powai,3 BHK,Society Q,1651,3,1,254.31
+Carpet Area,Ready To Move,Andheri,1 BHK,Society U,2911,1,0,770.49
+Plot Area,Under Construction,Powai,1 RK,Society W,2532,1,2,765.65
+Built-up Area,Under Construction,Chembur,2 RK,Society Q,2675,2,2,394.47
+Super built-up Area,Under Construction,Worli,2 BHK,Society T,2638,2,1,908.43
+Carpet Area,Ready To Move,Juhu,3 BHK,Society D,1264,3,1,233.54
+Plot Area,Under Construction,Worli,3 BHK,Society L,807,3,2,141.71
+Carpet Area,Under Construction,Borivali,1 BHK,Society J,1133,1,0,213.37
+Super built-up Area,Ready To Move,Goregaon,1 RK,Society M,2678,1,1,832.79
+Carpet Area,Ready To Move,Goregaon,1 BHK,Society X,1075,1,1,140.38
+Carpet Area,Ready To Move,Borivali,2 RK,Society F,897,2,2,190.01
+Built-up Area,Under Construction,Dadar,2 RK,Society C,2972,2,0,1015.37
+Plot Area,Under Construction,Juhu,1 BHK,Society J,407,1,2,130.81
+Built-up Area,Under Construction,Andheri,4 BHK,Society J,1400,4,2,191.98
+Plot Area,Ready To Move,Juhu,2 RK,Society G,420,2,0,117.33
+Built-up Area,Ready To Move,Chembur,1 RK,Society L,1395,1,2,340.04
+Plot Area,Ready To Move,Powai,4 BHK,Society Z,2109,5,2,388.19
+Carpet Area,Under Construction,Borivali,1 BHK,Society R,2729,1,2,924.48
+Carpet Area,Under Construction,Worli,2 RK,Society K,1362,2,0,231.96
+Plot Area,Ready To Move,Worli,4 BHK,Society D,2095,4,0,297.84
+Built-up Area,Ready To Move,Chembur,4 BHK,Society Y,1006,4,2,240.52
+Carpet Area,Under Construction,Borivali,2 RK,Society J,2731,2,2,463.01
+Super built-up Area,Under Construction,Malad,1 RK,Society T,1529,1,2,484.56
+Carpet Area,Ready To Move,Juhu,4 BHK,Society Y,3457,4,0,420.18
+Carpet Area,Ready To Move,Chembur,4 BHK,Society T,1057,4,1,324.41
+Super built-up Area,Ready To Move,Andheri,4 BHK,Society Q,4537,5,2,677.61
+Super built-up Area,Ready To Move,Chembur,4 BHK,Society X,1726,5,1,212.1
+Built-up Area,Under Construction,Bandra,2 RK,Society A,630,2,1,142.36
+Built-up Area,Under Construction,Borivali,3 BHK,Society L,1469,3,2,489.33
+Built-up Area,Ready To Move,Borivali,3 BHK,Society E,2651,3,0,599.51
+Super built-up Area,Under Construction,Worli,2 BHK,Society O,1514,2,2,461.04
+Built-up Area,Under Construction,Malad,1 RK,Society N,2350,1,1,688.16
+Super built-up Area,Under Construction,Bandra,2 BHK,Society G,2459,2,0,366.91
+Plot Area,Under Construction,Worli,3 BHK,Society B,339,3,2,44.61
+Plot Area,Under Construction,Chembur,1 RK,Society P,785,1,2,265.6
+Carpet Area,Under Construction,Worli,1 RK,Society Q,1724,1,1,272.53
+Built-up Area,Under Construction,Powai,4 BHK,Society P,4037,4,1,689.47
+Super built-up Area,Ready To Move,Borivali,1 BHK,Society M,592,1,1,97.87
+Super built-up Area,Under Construction,Andheri,1 RK,Society K,305,1,2,97.75
+Super built-up Area,Ready To Move,Powai,1 RK,Society O,1227,1,1,288.41
+Built-up Area,Ready To Move,Bandra,1 RK,Society E,2508,1,2,482.48
+Carpet Area,Ready To Move,Dadar,3 BHK,Society N,754,3,2,171.42
+Carpet Area,Ready To Move,Powai,2 BHK,Society S,2084,2,1,386.74
+Built-up Area,Under Construction,Malad,2 BHK,Society X,1268,2,0,418.35
+Carpet Area,Ready To Move,Juhu,1 BHK,Society F,1498,1,2,522.28
+Built-up Area,Under Construction,Borivali,3 BHK,Society Q,2142,3,2,495.75
+Plot Area,Under Construction,Andheri,2 BHK,Society G,1612,2,1,434.63
+Built-up Area,Under Construction,Bandra,2 BHK,Society Z,911,2,1,147.45
+Carpet Area,Ready To Move,Worli,4 BHK,Society E,3227,5,1,568.22
+Super built-up Area,Ready To Move,Bandra,4 BHK,Society V,1783,5,0,383.83
+Plot Area,Under Construction,Goregaon,3 BHK,Society S,596,3,2,124.35
+Super built-up Area,Under Construction,Juhu,1 RK,Society T,1124,1,0,366.15
+Carpet Area,Under Construction,Malad,3 BHK,Society I,367,3,1,112.28
+Built-up Area,Ready To Move,Dadar,1 RK,Society X,556,1,1,118.66
+Super built-up Area,Ready To Move,Juhu,3 BHK,Society Z,2731,3,0,471.87
+Super built-up Area,Under Construction,Dadar,2 RK,Society A,1978,2,0,647.11
+Plot Area,Under Construction,Malad,3 BHK,Society M,1116,3,2,390.56
+Carpet Area,Ready To Move,Andheri,1 RK,Society T,2065,1,1,544.13
+Super built-up Area,Ready To Move,Powai,4 BHK,Society O,1511,4,1,480.35
+Super built-up Area,Ready To Move,Juhu,1 RK,Society G,1310,1,1,210.17
+Plot Area,Ready To Move,Worli,2 BHK,Society T,1738,2,0,229.03
+Built-up Area,Under Construction,Malad,3 BHK,Society I,934,3,2,226.05
+Super built-up Area,Ready To Move,Goregaon,2 BHK,Society T,2209,2,0,554.96
+Super built-up Area,Ready To Move,Powai,2 RK,Society Q,1764,2,0,529.84
+Super built-up Area,Ready To Move,Chembur,1 BHK,Society E,2222,1,2,648.04
+Super built-up Area,Under Construction,Powai,2 BHK,Society J,2088,2,0,707.78
+Super built-up Area,Ready To Move,Powai,2 BHK,Society A,2647,2,0,605.5
+Carpet Area,Under Construction,Malad,1 BHK,Society B,2261,1,2,309.33
+Super built-up Area,Under Construction,Juhu,2 BHK,Society B,807,2,1,213.1
+Built-up Area,Ready To Move,Goregaon,1 BHK,Society E,966,1,2,314.45
+Built-up Area,Under Construction,Goregaon,3 BHK,Society C,2321,3,0,754.81
+Super built-up Area,Ready To Move,Juhu,2 BHK,Society I,2100,2,1,484.3
+Plot Area,Under Construction,Goregaon,2 RK,Society U,1520,2,2,219.24
+Plot Area,Ready To Move,Chembur,4 BHK,Society Y,2096,5,0,273.25
+Super built-up Area,Under Construction,Andheri,3 BHK,Society Z,695,3,0,193.45
+Super built-up Area,Ready To Move,Borivali,2 BHK,Society L,571,2,1,143.39
+Built-up Area,Ready To Move,Borivali,2 RK,Society P,1668,2,1,536.5
+Carpet Area,Ready To Move,Worli,3 BHK,Society H,2673,3,0,432.55
+Plot Area,Under Construction,Bandra,4 BHK,Society E,1954,5,2,598.45
+Carpet Area,Ready To Move,Dadar,2 RK,Society A,2761,2,1,727.78
+Super built-up Area,Ready To Move,Dadar,2 BHK,Society G,1348,2,0,406.46
+Super built-up Area,Under Construction,Juhu,4 BHK,Society Q,4869,4,1,1584.91
+Carpet Area,Under Construction,Bandra,2 BHK,Society J,731,2,2,101.56
+Built-up Area,Ready To Move,Worli,4 BHK,Society E,1487,4,2,209.17
+Plot Area,Under Construction,Juhu,1 BHK,Society O,2530,1,2,560.79
+Carpet Area,Under Construction,Powai,1 BHK,Society D,2039,1,2,338.75
+Carpet Area,Under Construction,Bandra,1 RK,Society T,1114,1,2,159.85
+Super built-up Area,Under Construction,Powai,1 BHK,Society J,2671,1,2,707.07
+Plot Area,Ready To Move,Juhu,4 BHK,Society Z,1052,4,0,290.93
+Super built-up Area,Under Construction,Andheri,2 BHK,Society X,2414,2,2,818.49
+Plot Area,Ready To Move,Worli,1 BHK,Society I,1385,1,1,300.55
+Carpet Area,Ready To Move,Worli,1 BHK,Society V,2572,1,1,624.36
+Built-up Area,Ready To Move,Goregaon,1 RK,Society G,2810,1,0,897.13
+Plot Area,Ready To Move,Goregaon,3 BHK,Society W,2974,3,0,750.34
+Plot Area,Ready To Move,Chembur,1 BHK,Society J,952,1,0,177.32
+Built-up Area,Under Construction,Goregaon,3 BHK,Society X,1274,3,0,362.79
+Plot Area,Under Construction,Bandra,1 BHK,Society L,2239,1,1,466.25
+Carpet Area,Ready To Move,Borivali,1 BHK,Society H,1420,1,0,332.67
+Built-up Area,Under Construction,Juhu,1 RK,Society N,2126,1,1,514.4
+Built-up Area,Ready To Move,Malad,1 BHK,Society E,1379,1,2,293.86
+Plot Area,Ready To Move,Bandra,2 RK,Society M,2170,2,2,677.13
+Plot Area,Under Construction,Powai,3 BHK,Society I,1013,3,2,198.29
+Carpet Area,Ready To Move,Juhu,1 BHK,Society J,356,1,2,79.76
+Carpet Area,Ready To Move,Powai,1 BHK,Society Z,3000,1,2,461.39
+Super built-up Area,Under Construction,Goregaon,1 RK,Society M,861,1,0,258.4
+Built-up Area,Under Construction,Powai,2 BHK,Society R,2259,2,1,782.92
+Built-up Area,Under Construction,Juhu,2 BHK,Society T,882,2,1,295.38
+Super built-up Area,Under Construction,Powai,1 BHK,Society J,1871,1,2,616.17
+Built-up Area,Ready To Move,Powai,1 RK,Society P,2852,1,2,908.83
+Super built-up Area,Ready To Move,Borivali,2 BHK,Society I,2664,2,1,606.04
+Plot Area,Under Construction,Dadar,4 BHK,Society V,4794,4,2,968.52
+Plot Area,Under Construction,Dadar,3 BHK,Society P,2590,3,2,707.43
+Carpet Area,Under Construction,Juhu,2 BHK,Society D,1311,2,2,203.5
+Built-up Area,Under Construction,Goregaon,1 BHK,Society W,1382,1,1,213.99
+Built-up Area,Under Construction,Malad,3 BHK,Society W,2605,3,0,668.63
+Built-up Area,Ready To Move,Andheri,1 BHK,Society W,2074,1,2,431.72
+Built-up Area,Under Construction,Andheri,2 BHK,Society I,2400,2,0,726.68
+Carpet Area,Under Construction,Juhu,3 BHK,Society G,1504,3,0,292.97
+Plot Area,Under Construction,Juhu,3 BHK,Society J,592,3,2,172.28
+Super built-up Area,Under Construction,Dadar,1 BHK,Society R,2226,1,1,397.15
+Built-up Area,Under Construction,Malad,1 BHK,Society W,2683,1,2,373.43
+Plot Area,Ready To Move,Dadar,2 BHK,Society X,1721,2,0,440.79
+Super built-up Area,Ready To Move,Goregaon,2 RK,Society N,383,2,2,96.79
+Super built-up Area,Ready To Move,Andheri,1 BHK,Society H,2364,1,1,631.44
+Super built-up Area,Ready To Move,Juhu,2 BHK,Society Q,2096,2,2,381.43
+Carpet Area,Ready To Move,Andheri,2 RK,Society H,2423,2,1,759.01
+Built-up Area,Under Construction,Powai,1 RK,Society Z,2484,1,2,726.52
+Super built-up Area,Under Construction,Juhu,3 BHK,Society J,845,3,0,239.2
+Plot Area,Ready To Move,Malad,1 RK,Society Q,1930,1,2,448.0
+Super built-up Area,Under Construction,Worli,1 RK,Society I,1863,1,1,231.26
+Carpet Area,Ready To Move,Bandra,3 BHK,Society M,2079,3,0,441.45
+Carpet Area,Under Construction,Worli,3 BHK,Society I,2385,3,0,411.45
+Built-up Area,Under Construction,Chembur,2 RK,Society O,1257,2,2,352.37
+Built-up Area,Ready To Move,Powai,1 BHK,Society S,2689,1,1,618.94
+Carpet Area,Under Construction,Chembur,2 RK,Society W,1611,2,1,262.07
+Super built-up Area,Ready To Move,Chembur,1 BHK,Society T,510,1,0,110.96
+Plot Area,Ready To Move,Worli,3 BHK,Society U,2219,3,1,369.49
+Built-up Area,Under Construction,Andheri,3 BHK,Society U,2884,3,2,678.59
+Carpet Area,Under Construction,Bandra,1 RK,Society A,2850,1,0,867.89
+Plot Area,Ready To Move,Worli,4 BHK,Society G,3353,4,0,557.07
+Carpet Area,Ready To Move,Dadar,2 BHK,Society A,1855,2,1,418.45
+Plot Area,Under Construction,Borivali,2 RK,Society X,1244,2,1,261.08
+Built-up Area,Ready To Move,Dadar,1 RK,Society C,1856,1,0,285.88
+Super built-up Area,Under Construction,Goregaon,1 BHK,Society N,2807,1,0,486.58
+Carpet Area,Under Construction,Bandra,1 BHK,Society X,1961,1,2,372.7
+Built-up Area,Ready To Move,Worli,1 RK,Society U,2694,1,2,336.81
+Super built-up Area,Ready To Move,Malad,2 RK,Society T,1495,2,2,279.16
+Built-up Area,Ready To Move,Powai,3 BHK,Society Z,600,3,0,96.11
+Built-up Area,Ready To Move,Borivali,1 RK,Society F,2181,1,1,549.13
+Plot Area,Under Construction,Borivali,1 BHK,Society R,807,1,2,186.01
+Built-up Area,Under Construction,Juhu,2 RK,Society V,2819,2,2,600.22
+Carpet Area,Under Construction,Juhu,2 RK,Society V,890,2,2,106.99
+Built-up Area,Ready To Move,Chembur,3 BHK,Society N,1226,3,0,350.84
+Plot Area,Ready To Move,Malad,4 BHK,Society X,1294,4,2,301.9
+Plot Area,Under Construction,Chembur,1 BHK,Society T,541,1,1,130.4
+Plot Area,Under Construction,Malad,2 BHK,Society S,2765,2,1,957.16
+Carpet Area,Under Construction,Bandra,1 BHK,Society W,2465,1,2,625.74
+Super built-up Area,Under Construction,Worli,2 BHK,Society E,1255,2,1,206.63
+Carpet Area,Ready To Move,Chembur,4 BHK,Society A,3575,4,1,731.13
+Built-up Area,Under Construction,Andheri,3 BHK,Society L,2102,3,0,369.82
+Plot Area,Ready To Move,Powai,1 BHK,Society A,577,1,2,133.2
+Plot Area,Ready To Move,Dadar,2 RK,Society Z,773,2,0,188.15
+Plot Area,Ready To Move,Borivali,1 RK,Society W,2939,1,0,553.76
+Plot Area,Under Construction,Goregaon,4 BHK,Society Y,3023,4,0,409.04
+Plot Area,Ready To Move,Borivali,3 BHK,Society L,822,3,0,174.74
+Super built-up Area,Ready To Move,Powai,3 BHK,Society H,1360,3,0,203.46
+Built-up Area,Under Construction,Worli,1 BHK,Society U,543,1,2,101.38
+Super built-up Area,Ready To Move,Andheri,2 RK,Society U,2973,2,0,978.74
+Carpet Area,Under Construction,Chembur,4 BHK,Society G,2085,5,1,603.42
+Super built-up Area,Under Construction,Andheri,4 BHK,Society V,3676,4,2,777.05
+Plot Area,Under Construction,Chembur,2 BHK,Society O,1555,2,2,253.31
+Carpet Area,Ready To Move,Malad,3 BHK,Society O,2648,3,0,878.74
+Super built-up Area,Under Construction,Juhu,1 RK,Society E,1005,1,1,261.33
+Plot Area,Under Construction,Goregaon,2 BHK,Society T,2107,2,1,577.01
+Plot Area,Ready To Move,Bandra,1 RK,Society D,2269,1,2,729.96
+Built-up Area,Under Construction,Borivali,3 BHK,Society G,1349,3,2,248.43
+Plot Area,Ready To Move,Goregaon,2 RK,Society V,2444,2,0,850.37
+Built-up Area,Under Construction,Malad,1 RK,Society Z,1855,1,2,485.48
+Built-up Area,Under Construction,Chembur,2 BHK,Society H,848,2,2,108.7
+Plot Area,Ready To Move,Andheri,4 BHK,Society Q,2704,5,0,841.3
+Plot Area,Ready To Move,Powai,4 BHK,Society T,2519,4,1,758.31
+Super built-up Area,Ready To Move,Malad,1 BHK,Society V,454,1,1,156.47
+Carpet Area,Ready To Move,Bandra,4 BHK,Society H,4770,5,0,1407.41
+Carpet Area,Under Construction,Chembur,2 RK,Society A,2884,2,0,979.15
+Built-up Area,Ready To Move,Worli,1 BHK,Society Z,1860,1,0,575.16
+Built-up Area,Under Construction,Borivali,3 BHK,Society Q,1021,3,0,202.15
+Built-up Area,Under Construction,Goregaon,2 RK,Society Q,549,2,0,87.48
+Carpet Area,Ready To Move,Powai,2 RK,Society G,307,2,2,88.24
+Carpet Area,Under Construction,Bandra,4 BHK,Society A,3700,5,1,1030.52
+Super built-up Area,Ready To Move,Worli,2 BHK,Society X,352,2,1,69.39
+Plot Area,Under Construction,Powai,2 RK,Society U,1399,2,0,212.64
+Super built-up Area,Under Construction,Powai,2 RK,Society W,1792,2,2,442.01
+Plot Area,Under Construction,Worli,1 RK,Society R,2118,1,1,431.64
+Built-up Area,Under Construction,Worli,3 BHK,Society P,2697,3,2,848.71
+Plot Area,Under Construction,Malad,1 BHK,Society R,1818,1,2,508.96
+Super built-up Area,Ready To Move,Andheri,2 RK,Society K,2430,2,0,327.28
+Plot Area,Ready To Move,Worli,3 BHK,Society F,2776,3,0,378.5
+Carpet Area,Under Construction,Andheri,2 RK,Society J,513,2,2,161.03
+Super built-up Area,Ready To Move,Andheri,4 BHK,Society J,2940,4,0,849.84
+Carpet Area,Under Construction,Borivali,2 BHK,Society Q,2608,2,2,318.13
+Carpet Area,Ready To Move,Worli,1 BHK,Society D,1217,1,2,284.64
+Plot Area,Under Construction,Chembur,1 BHK,Society K,1459,1,1,311.51
+Carpet Area,Ready To Move,Goregaon,1 BHK,Society C,1664,1,0,379.08
+Super built-up Area,Ready To Move,Juhu,1 RK,Society J,2957,1,0,614.8
+Plot Area,Ready To Move,Chembur,4 BHK,Society K,1526,4,1,278.41
+Plot Area,Under Construction,Powai,4 BHK,Society K,3933,5,0,1144.69
+Built-up Area,Under Construction,Andheri,4 BHK,Society T,1417,5,1,199.71
+Plot Area,Under Construction,Bandra,1 RK,Society G,1602,1,0,255.46
+Super built-up Area,Under Construction,Goregaon,4 BHK,Society X,4814,5,0,1443.23
+Carpet Area,Under Construction,Worli,3 BHK,Society A,462,3,1,141.68
+Plot Area,Under Construction,Powai,4 BHK,Society V,1269,4,0,229.71
+Plot Area,Under Construction,Worli,1 RK,Society O,331,1,0,62.85
+Plot Area,Ready To Move,Borivali,1 BHK,Society F,697,1,0,118.44
+Plot Area,Ready To Move,Malad,2 RK,Society V,546,2,2,168.51
+Plot Area,Ready To Move,Malad,3 BHK,Society X,2611,3,2,462.23
+Super built-up Area,Under Construction,Worli,3 BHK,Society R,972,3,1,262.14
+Built-up Area,Under Construction,Powai,2 BHK,Society Q,2597,2,1,652.08
+Built-up Area,Under Construction,Worli,3 BHK,Society P,408,3,1,97.43
+Plot Area,Ready To Move,Juhu,4 BHK,Society M,2323,4,0,315.41
+Plot Area,Under Construction,Goregaon,3 BHK,Society D,2541,3,1,845.63
+Built-up Area,Ready To Move,Worli,4 BHK,Society I,3852,5,0,809.51
+Plot Area,Under Construction,Bandra,1 RK,Society E,1030,1,2,287.24
+Plot Area,Ready To Move,Andheri,1 RK,Society B,2921,1,2,811.22
+Carpet Area,Ready To Move,Goregaon,4 BHK,Society T,2901,5,2,935.8
+Carpet Area,Under Construction,Juhu,2 BHK,Society U,709,2,1,162.05
+Super built-up Area,Ready To Move,Bandra,3 BHK,Society K,1271,3,0,182.05
+Plot Area,Under Construction,Dadar,3 BHK,Society B,2223,3,0,760.53
+Super built-up Area,Under Construction,Dadar,2 RK,Society O,1773,2,0,548.37
+Built-up Area,Ready To Move,Juhu,3 BHK,Society K,710,3,0,178.6
+Carpet Area,Ready To Move,Worli,1 RK,Society M,2552,1,2,399.29
+Super built-up Area,Under Construction,Malad,4 BHK,Society O,4448,5,1,1383.7
+Plot Area,Under Construction,Bandra,2 BHK,Society H,2415,2,0,361.34
+Built-up Area,Ready To Move,Bandra,1 RK,Society P,979,1,1,266.83
+Built-up Area,Under Construction,Chembur,2 BHK,Society H,1186,2,0,268.67
+Plot Area,Ready To Move,Malad,3 BHK,Society G,2867,3,1,413.13
+Built-up Area,Under Construction,Andheri,2 RK,Society N,2831,2,1,732.47
+Carpet Area,Ready To Move,Borivali,2 RK,Society Z,1439,2,0,339.36
+Carpet Area,Under Construction,Bandra,3 BHK,Society E,2039,3,2,297.12
+Plot Area,Under Construction,Andheri,3 BHK,Society U,2425,3,2,486.96
+Super built-up Area,Under Construction,Juhu,1 BHK,Society D,1478,1,0,455.31
+Built-up Area,Under Construction,Goregaon,1 RK,Society D,1837,1,1,480.33
+Plot Area,Under Construction,Bandra,2 BHK,Society V,1707,2,2,397.67
+Built-up Area,Under Construction,Worli,2 RK,Society X,945,2,1,234.48
+Built-up Area,Under Construction,Bandra,4 BHK,Society W,2731,4,2,721.12
+Super built-up Area,Ready To Move,Juhu,2 BHK,Society W,2825,2,1,677.12
+Carpet Area,Ready To Move,Dadar,3 BHK,Society F,2107,3,1,384.26
+Super built-up Area,Ready To Move,Bandra,4 BHK,Society K,1736,5,0,317.08
+Carpet Area,Ready To Move,Borivali,3 BHK,Society O,2903,3,0,781.75
+Built-up Area,Ready To Move,Dadar,2 RK,Society P,660,2,0,174.74
+Built-up Area,Under Construction,Andheri,2 BHK,Society M,1973,2,1,498.73
+Built-up Area,Ready To Move,Bandra,4 BHK,Society B,1068,5,0,258.03
+Super built-up Area,Under Construction,Andheri,1 BHK,Society B,442,1,2,98.11
+Plot Area,Ready To Move,Juhu,1 BHK,Society K,1492,1,0,275.85
+Carpet Area,Ready To Move,Borivali,3 BHK,Society W,2981,3,0,413.29
+Plot Area,Ready To Move,Powai,3 BHK,Society R,570,3,2,185.65
+Super built-up Area,Ready To Move,Dadar,4 BHK,Society T,2348,4,2,343.74
+Carpet Area,Ready To Move,Powai,2 BHK,Society N,2017,2,2,533.37
+Plot Area,Under Construction,Goregaon,2 BHK,Society P,1807,2,2,246.57
+Built-up Area,Ready To Move,Worli,2 RK,Society E,1491,2,1,304.24
+Built-up Area,Under Construction,Powai,2 BHK,Society D,1441,2,1,201.76
+Built-up Area,Under Construction,Borivali,1 BHK,Society W,1165,1,0,192.15
+Carpet Area,Under Construction,Powai,2 RK,Society V,2660,2,2,708.79
+Built-up Area,Under Construction,Bandra,1 RK,Society F,2198,1,1,582.2
+Super built-up Area,Under Construction,Powai,1 BHK,Society G,350,1,1,45.71
+Super built-up Area,Under Construction,Juhu,2 RK,Society R,2396,2,2,577.38
+Carpet Area,Under Construction,Bandra,3 BHK,Society J,397,3,2,58.39
+Plot Area,Ready To Move,Goregaon,2 BHK,Society P,846,2,0,112.18
+Built-up Area,Under Construction,Juhu,3 BHK,Society T,1844,3,2,284.12
+Plot Area,Ready To Move,Juhu,1 BHK,Society P,1825,1,2,237.37
+Built-up Area,Ready To Move,Powai,2 RK,Society L,2597,2,2,544.64
+Plot Area,Under Construction,Andheri,2 BHK,Society U,2832,2,0,935.47
+Built-up Area,Ready To Move,Powai,2 BHK,Society I,882,2,2,236.34
+Super built-up Area,Ready To Move,Goregaon,2 RK,Society H,472,2,2,114.45
+Built-up Area,Ready To Move,Malad,1 BHK,Society T,1370,1,2,185.6
+Built-up Area,Under Construction,Bandra,2 BHK,Society O,2849,2,2,552.43
+Built-up Area,Ready To Move,Goregaon,4 BHK,Society S,1301,4,2,331.77
+Super built-up Area,Ready To Move,Juhu,4 BHK,Society B,1266,5,2,258.41
+Built-up Area,Ready To Move,Bandra,4 BHK,Society D,2542,5,1,651.82
+Built-up Area,Ready To Move,Malad,4 BHK,Society S,1383,5,1,283.08
+Plot Area,Under Construction,Worli,1 RK,Society F,2057,1,2,406.91
+Carpet Area,Ready To Move,Borivali,3 BHK,Society V,792,3,1,231.44
+Plot Area,Ready To Move,Dadar,3 BHK,Society Z,1595,3,0,450.64
+Carpet Area,Under Construction,Malad,4 BHK,Society P,3013,5,2,810.96
+Built-up Area,Under Construction,Dadar,1 BHK,Society B,1460,1,2,320.5
+Built-up Area,Ready To Move,Andheri,2 BHK,Society K,1382,2,1,350.85
+Plot Area,Under Construction,Chembur,1 BHK,Society E,918,1,1,126.92
+Super built-up Area,Ready To Move,Malad,1 BHK,Society Y,885,1,2,130.86
+Plot Area,Ready To Move,Powai,2 RK,Society W,2134,2,0,515.84
+Plot Area,Under Construction,Dadar,2 BHK,Society L,2893,2,0,929.62
+Built-up Area,Ready To Move,Powai,2 BHK,Society S,1951,2,1,433.8
+Carpet Area,Ready To Move,Dadar,3 BHK,Society W,2404,3,2,331.91
+Built-up Area,Ready To Move,Powai,3 BHK,Society P,897,3,0,204.29
+Carpet Area,Under Construction,Dadar,2 RK,Society Q,2500,2,1,624.91
+Super built-up Area,Under Construction,Chembur,3 BHK,Society T,2783,3,2,602.87
+Carpet Area,Ready To Move,Andheri,2 RK,Society Q,1147,2,0,209.53
+Built-up Area,Under Construction,Juhu,4 BHK,Society N,2488,5,0,435.59
+Carpet Area,Under Construction,Worli,3 BHK,Society P,2484,3,2,372.38
+Carpet Area,Under Construction,Dadar,1 BHK,Society X,2997,1,0,627.62
+Built-up Area,Under Construction,Andheri,4 BHK,Society I,2477,5,2,533.3
+Built-up Area,Under Construction,Goregaon,2 BHK,Society W,1369,2,2,243.79
+Plot Area,Ready To Move,Powai,1 BHK,Society G,1345,1,2,417.84
+Plot Area,Ready To Move,Bandra,2 RK,Society P,1478,2,0,403.76
+Built-up Area,Under Construction,Malad,4 BHK,Society A,3502,5,1,836.25
+Built-up Area,Under Construction,Juhu,2 RK,Society Y,1955,2,2,384.85
+Carpet Area,Ready To Move,Bandra,1 BHK,Society B,1907,1,2,293.3
+Plot Area,Ready To Move,Bandra,3 BHK,Society J,1957,3,2,430.58
+Plot Area,Under Construction,Bandra,2 RK,Society G,1939,2,1,384.28
+Built-up Area,Under Construction,Powai,2 BHK,Society D,2819,2,2,893.46
+Built-up Area,Ready To Move,Powai,2 RK,Society A,675,2,2,175.43
+Plot Area,Under Construction,Chembur,1 BHK,Society U,1454,1,1,228.51
+Carpet Area,Ready To Move,Chembur,4 BHK,Society D,3175,4,0,666.42
+Super built-up Area,Ready To Move,Worli,1 RK,Society Y,1036,1,0,189.25
+Plot Area,Ready To Move,Juhu,2 RK,Society C,2035,2,0,691.99
+Super built-up Area,Ready To Move,Worli,1 BHK,Society Q,1540,1,1,293.22
+Super built-up Area,Ready To Move,Powai,2 RK,Society R,2992,2,2,779.78
+Super built-up Area,Under Construction,Juhu,2 BHK,Society W,2264,2,1,509.44
+Super built-up Area,Under Construction,Chembur,1 BHK,Society F,2657,1,1,567.01
+Built-up Area,Under Construction,Andheri,2 RK,Society B,2285,2,2,421.54
+Carpet Area,Ready To Move,Andheri,1 BHK,Society M,1447,1,2,339.31
+Carpet Area,Ready To Move,Malad,4 BHK,Society X,2688,4,2,572.16
+Carpet Area,Ready To Move,Powai,2 BHK,Society P,1432,2,2,373.66
+Super built-up Area,Under Construction,Borivali,1 BHK,Society X,2503,1,1,596.45
+Built-up Area,Under Construction,Andheri,4 BHK,Society V,4825,5,1,1527.16
+Carpet Area,Ready To Move,Goregaon,2 BHK,Society L,2429,2,0,674.75
+Plot Area,Under Construction,Goregaon,4 BHK,Society J,3341,5,2,501.94
+Carpet Area,Ready To Move,Bandra,1 BHK,Society B,881,1,0,289.97
+Carpet Area,Under Construction,Malad,2 RK,Society D,1238,2,1,413.42
+Carpet Area,Ready To Move,Andheri,1 RK,Society X,2573,1,1,468.96
+Carpet Area,Under Construction,Worli,3 BHK,Society W,1977,3,0,413.74
+Built-up Area,Under Construction,Juhu,1 BHK,Society P,399,1,2,48.08
+Built-up Area,Ready To Move,Juhu,1 BHK,Society O,1697,1,0,287.1
+Built-up Area,Under Construction,Bandra,4 BHK,Society M,4240,4,0,1464.98
+Plot Area,Under Construction,Worli,1 BHK,Society Z,748,1,1,206.73
+Super built-up Area,Ready To Move,Dadar,3 BHK,Society Y,2262,3,2,722.48
+Carpet Area,Ready To Move,Worli,2 RK,Society N,2368,2,2,392.46
+Super built-up Area,Under Construction,Powai,2 RK,Society U,2793,2,1,372.91
+Carpet Area,Under Construction,Borivali,4 BHK,Society P,1615,4,0,377.63
+Super built-up Area,Ready To Move,Andheri,2 BHK,Society U,1699,2,2,455.64
+Plot Area,Ready To Move,Chembur,1 RK,Society W,329,1,0,40.46
+Built-up Area,Under Construction,Malad,4 BHK,Society V,1293,5,1,265.6
+Carpet Area,Under Construction,Worli,2 BHK,Society W,2390,2,2,300.71
+Plot Area,Ready To Move,Andheri,1 RK,Society H,1671,1,1,396.66
+Built-up Area,Under Construction,Powai,2 RK,Society U,792,2,2,134.66
+Super built-up Area,Under Construction,Worli,1 RK,Society B,624,1,0,198.0
+Super built-up Area,Ready To Move,Bandra,2 BHK,Society E,1032,2,0,226.25
+Built-up Area,Under Construction,Juhu,2 BHK,Society R,2411,2,2,628.56
+Carpet Area,Ready To Move,Dadar,2 BHK,Society N,1117,2,2,246.18
+Carpet Area,Under Construction,Dadar,1 BHK,Society K,2842,1,1,539.83
+Plot Area,Under Construction,Goregaon,4 BHK,Society I,3869,4,1,754.53
+Built-up Area,Under Construction,Bandra,2 BHK,Society M,2872,2,2,605.67
+Carpet Area,Under Construction,Chembur,4 BHK,Society K,4799,5,1,1147.17
+Built-up Area,Ready To Move,Andheri,2 RK,Society F,2518,2,0,329.6
+Super built-up Area,Ready To Move,Chembur,2 BHK,Society J,2077,2,0,297.88
+Plot Area,Ready To Move,Juhu,2 BHK,Society H,2035,2,1,284.73
+Plot Area,Ready To Move,Borivali,2 RK,Society O,451,2,1,67.0
+Built-up Area,Under Construction,Bandra,1 BHK,Society R,1537,1,0,201.57
+Super built-up Area,Ready To Move,Worli,1 BHK,Society V,2813,1,0,344.42
+Carpet Area,Ready To Move,Bandra,4 BHK,Society U,4945,5,0,1706.96
+Plot Area,Ready To Move,Dadar,4 BHK,Society D,2253,5,1,319.64
+Carpet Area,Under Construction,Bandra,4 BHK,Society E,4666,5,0,566.73
+Built-up Area,Under Construction,Bandra,2 RK,Society K,2091,2,0,697.63
+Super built-up Area,Under Construction,Chembur,2 RK,Society W,541,2,0,188.23
+Plot Area,Under Construction,Malad,4 BHK,Society V,1229,4,0,353.71
+Plot Area,Under Construction,Andheri,2 RK,Society Z,397,2,2,118.49
+Carpet Area,Ready To Move,Borivali,4 BHK,Society W,4021,4,0,1186.26
+Plot Area,Ready To Move,Powai,2 RK,Society C,2622,2,0,627.93
+Super built-up Area,Under Construction,Borivali,1 BHK,Society G,1206,1,0,195.21
+Super built-up Area,Ready To Move,Goregaon,1 RK,Society U,1435,1,0,406.2
+Carpet Area,Ready To Move,Powai,3 BHK,Society R,698,3,1,149.78
+Carpet Area,Under Construction,Bandra,3 BHK,Society N,429,3,0,106.52
+Super built-up Area,Under Construction,Chembur,4 BHK,Society S,3532,4,2,922.23
+Carpet Area,Under Construction,Chembur,2 BHK,Society Z,2476,2,2,759.45
+Plot Area,Under Construction,Juhu,3 BHK,Society G,1147,3,2,239.1
+Carpet Area,Under Construction,Borivali,3 BHK,Society G,1017,3,2,347.28
+Built-up Area,Ready To Move,Chembur,2 RK,Society I,2153,2,2,282.65
+Super built-up Area,Ready To Move,Worli,2 RK,Society B,1373,2,1,400.84
+Carpet Area,Under Construction,Chembur,4 BHK,Society H,4116,5,1,1130.71
+Built-up Area,Ready To Move,Andheri,2 RK,Society Q,318,2,2,105.05
+Super built-up Area,Ready To Move,Goregaon,1 RK,Society S,1552,1,1,285.23
+Built-up Area,Ready To Move,Bandra,2 BHK,Society X,2940,2,0,379.18
+Built-up Area,Under Construction,Borivali,1 BHK,Society A,1013,1,2,174.23
+Super built-up Area,Under Construction,Powai,1 RK,Society R,854,1,0,110.55
+Carpet Area,Under Construction,Malad,2 RK,Society W,803,2,1,266.19
+Built-up Area,Ready To Move,Borivali,2 RK,Society Y,999,2,2,301.54
+Plot Area,Ready To Move,Juhu,3 BHK,Society B,1976,3,2,683.07
+Built-up Area,Ready To Move,Borivali,4 BHK,Society N,3293,4,0,406.12
+Super built-up Area,Under Construction,Dadar,1 BHK,Society T,2742,1,1,633.01
+Super built-up Area,Ready To Move,Worli,2 BHK,Society C,2994,2,2,369.03
+Built-up Area,Under Construction,Worli,2 RK,Society P,1692,2,2,301.81
+Built-up Area,Under Construction,Andheri,4 BHK,Society G,1570,4,1,318.74
+Built-up Area,Ready To Move,Goregaon,2 BHK,Society J,1293,2,2,329.47
+Carpet Area,Under Construction,Borivali,2 BHK,Society V,401,2,1,65.6
+Plot Area,Under Construction,Chembur,1 RK,Society D,875,1,2,230.7
+Super built-up Area,Ready To Move,Juhu,4 BHK,Society Y,4766,4,0,1331.28
+Super built-up Area,Under Construction,Worli,3 BHK,Society I,2502,3,1,731.99
+Carpet Area,Ready To Move,Worli,3 BHK,Society Z,734,3,1,237.88
+Built-up Area,Ready To Move,Malad,3 BHK,Society K,2117,3,0,606.58
+Carpet Area,Ready To Move,Goregaon,4 BHK,Society X,2554,5,2,742.28
+Plot Area,Under Construction,Worli,4 BHK,Society Y,3193,5,0,614.74
+Carpet Area,Ready To Move,Dadar,1 BHK,Society B,526,1,2,178.8
+Plot Area,Under Construction,Andheri,4 BHK,Society F,3690,5,1,1231.1
+Carpet Area,Ready To Move,Andheri,2 RK,Society O,2876,2,0,700.06
+Built-up Area,Ready To Move,Borivali,1 BHK,Society Q,785,1,2,259.28
+Plot Area,Under Construction,Dadar,1 BHK,Society Q,2028,1,1,660.56
+Carpet Area,Ready To Move,Powai,2 BHK,Society S,550,2,1,133.67
+Super built-up Area,Under Construction,Goregaon,4 BHK,Society N,3081,5,0,819.93
+Plot Area,Ready To Move,Juhu,4 BHK,Society X,1559,4,0,256.24
+Carpet Area,Ready To Move,Powai,1 BHK,Society O,864,1,1,161.45
+Plot Area,Ready To Move,Andheri,4 BHK,Society J,4989,5,0,918.98
+Carpet Area,Ready To Move,Malad,2 RK,Society V,1027,2,0,211.6
